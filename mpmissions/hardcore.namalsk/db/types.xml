@@ -3391,7 +3391,7 @@
   <type name="MediumTent">
     <nominal>5</nominal>
     <min>4</min>
-    <lifetime>31556952</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>10800</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3405,7 +3405,7 @@
   <type name="MediumTent_Orange">
     <nominal>5</nominal>
     <min>4</min>
-    <lifetime>31556952</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>10800</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3419,7 +3419,7 @@
   <type name="MediumTent_Green">
     <nominal>5</nominal>
     <min>4</min>
-    <lifetime>31556952</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>10800</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3433,7 +3433,7 @@
   <type name="Barrel_Green">
     <nominal>3</nominal>
     <min>2</min>
-    <lifetime>604800</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>10800</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3447,7 +3447,7 @@
   <type name="Barrel_Blue">
     <nominal>5</nominal>
     <min>3</min>
-    <lifetime>604800</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>10800</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3461,7 +3461,7 @@
   <type name="Barrel_Red">
     <nominal>5</nominal>
     <min>3</min>
-    <lifetime>604800</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>10800</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3475,7 +3475,7 @@
   <type name="Barrel_Yellow">
     <nominal>5</nominal>
     <min>3</min>
-    <lifetime>604800</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>10800</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3489,7 +3489,7 @@
   <type name="SeaChest">
     <nominal>6</nominal>
     <min>4</min>
-    <lifetime>31556952</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>10800</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -3518,7 +3518,7 @@
   <type name="SmallProtectorCase">
     <nominal>20</nominal>
     <min>15</min>
-    <lifetime>604800</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -10430,11 +10430,11 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="FireplaceIndoor">
-    <lifetime>604800</lifetime> 
+    <lifetime>3888000</lifetime> 
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="OvenIndoor">
-    <lifetime>604800</lifetime> 
+    <lifetime>3888000</lifetime> 
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="Paper">
@@ -10518,7 +10518,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="Watchtower">
-    <lifetime>1200</lifetime>
+    <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="FenceKit">
@@ -10526,11 +10526,11 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="Fence">
-    <lifetime>1200</lifetime>
+    <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="TerritoryFlag">
-    <lifetime>1209600</lifetime>
+    <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
   </type>
   <type name="TerritoryFlagKit">
@@ -10594,27 +10594,27 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="BarrelHoles_Green">
-    <lifetime>604800</lifetime>
+    <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="BarrelHoles_Blue">
-    <lifetime>604800</lifetime>
+    <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="BarrelHoles_Red">
-    <lifetime>604800</lifetime>
+    <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="BarrelHoles_Yellow">
-    <lifetime>604800</lifetime>
+    <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="UndergroundStash">
-    <lifetime>604800</lifetime>
+    <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
   </type>
   <type name="WoodenCrate">
-    <lifetime>1209600</lifetime>
+    <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="Armband_Black">
@@ -12755,7 +12755,7 @@
   <type name="LargeTent">
     <nominal>6</nominal>
     <min>5</min>
-    <lifetime>31556952</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>10800</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -12769,7 +12769,7 @@
   <type name="CarTent">
     <nominal>4</nominal>
     <min>3</min>
-    <lifetime>31556952</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>10800</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -12783,7 +12783,7 @@
   <type name="PartyTent">
     <nominal>5</nominal>
     <min>4</min>
-    <lifetime>31556952</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>10800</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -12797,7 +12797,7 @@
   <type name="PartyTent_Blue">
     <nominal>5</nominal>
     <min>4</min>
-    <lifetime>31556952</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>10800</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -12811,7 +12811,7 @@
   <type name="PartyTent_Brown">
     <nominal>5</nominal>
     <min>4</min>
-    <lifetime>31556952</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>10800</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -12867,25 +12867,9 @@
     <tag name="civilian" />
     <tag name="industrial" />
   </type>
-  <type name="Nail">
-    <lifetime>2700</lifetime>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
-  </type>
-  <type name="NailedBaseballBat">
-    <lifetime>1800</lifetime>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
-  </type>
-  <type name="BarbedBaseballBat">
-    <lifetime>1800</lifetime>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
-  </type>
-  <type name="WoodenCrate">
-    <lifetime>1209600</lifetime>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
-  </type>
   <type name="Bonfire">
         <nominal>0</nominal>
-        <lifetime>1209600</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
