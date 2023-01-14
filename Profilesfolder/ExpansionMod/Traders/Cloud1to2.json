@@ -1,0 +1,25 @@
+{
+    "m_Version": 10,
+    "DisplayName": "CL0UDS CLOTHING",
+    "MinRequiredReputation": -2147483648,
+    "MaxRequiredReputation": 2147483647,
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories":[
+        "Cl0ud_Military_Gear"
+    ],
+    "Items": {
+        "MilitaryGear_TacticalHelmet_Tiger":3,
+        "MilitaryGear_FieldJacket_Tiger":3,
+        "MilitaryGear_HighCapVest_Tiger":3,
+        "MilitaryGear_PlateCarrier_Tiger":3,
+        "MilitaryGear_SmershVest_Tiger":3,
+        "MilitaryGear_TacticalHelmet_Skol":3,
+        "MilitaryGear_FieldJacket_Skol":3,
+        "MilitaryGear_HighCapVest_Skol":3,
+        "MilitaryGear_PlateCarrier_Skol":3,
+        "MilitaryGear_SmershVest_Skol":3
+    }
+}

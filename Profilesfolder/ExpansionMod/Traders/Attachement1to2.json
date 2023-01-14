@@ -1,0 +1,53 @@
+{
+    "m_Version": 10,
+    "DisplayName": "ATTACHEMENTS",
+    "MinRequiredReputation": -2147483648,
+    "MaxRequiredReputation": 2147483647,
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Mags",
+        "Bayonets",
+        "Muzzles",
+        "Optics",
+        "Handgaurds",
+        "AWS"
+    ],
+    "Items": {
+        "mag_akm_drum75rnd":3,
+        "mag_stanag_30rnd":3,
+        "mag_stanag_60rnd":3,
+        "mag_cmag_10rnd":3,
+        "mag_cmag_20rnd":3,
+        "mag_cmag_30rnd":3,
+        "mag_cmag_40rnd":3,
+        "mag_famas_25rnd":3,
+        "mag_aug_30rnd":3,
+        "mag_ak101_30rnd":3,
+        "mag_ak74_30rnd":3,
+        "mag_ak74_45rnd":3,
+        "mag_svd_10rnd":3,
+        "mag_fal_20rnd":3,
+        "mag_vss_10rnd":3,
+        "mag_val_20rnd":3,
+        "mag_saiga_drum20rnd":3,
+        "m4_suppressor":3,
+        "ak_suppressor":3,
+        "pistolsuppressor":3,
+        "expansionhamroptic":3,
+        "AD_B13Mount":3,
+        "AD_ACOG":3,
+        "AD_SpecterDR":3,
+        "AD_DHF5":3,
+        "AD_MRS":3,
+        "AD_NFATACR":3,
+        "AD_NFATACR_1_8":3,
+        "AD_OKP7":3,
+        "AD_PVS4":3,
+        "AD_XPS34":3,
+        "AD_G33":3,
+        "AD_LeupoldMk4":3
+    }
+}

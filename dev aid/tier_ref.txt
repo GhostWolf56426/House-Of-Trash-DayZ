@@ -1,0 +1,26 @@
+For reference on the tier values.
+
+Syntax:
+
+    <value user="Tier4" />
+
+Values That can be asigned:
+https://github.com/SumrakDZN/Namalsk-Server/blob/main/Mission%20Files/hardcore.namalsk/cfglimitsdefinitionuser.xml
+
+    Tier1
+    Tier2
+    Tier3
+    Tier4
+    Tier5
+    Tier6
+    Tier7
+    Tier12
+    Tier23
+    Tier34
+    Tier45
+    Tier46
+    Tier67
+    Tier123
+    Tier234
+    Tier567
+    Tier1234

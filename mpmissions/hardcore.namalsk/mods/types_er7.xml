@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <type name="ER7_Gauss">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    	<category name="lantia" />
+        <usage name="Military"/>
+        <value name="Tier67"/>
+    </type>
+    <type name="ER7_Gauss_Battery">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+    	<category name="Tools" />
+        <usage name="Medical"/>
+        <value user="Tier34"/>
+    </type>
+    <type name="ER7_Scope">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage />
+        <tag name="military"/>
+        <value user="Tier4"/>
+    </type>
+    <type name="ER7_Gauss_Magazine">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>900</restock>
+        <min>2</min>
+        <quantmin>10</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Seaice"/>
+        <tag name="military"/>
+        <value user="Tier4"/>
+    </type>
+    <type name="Ammo_ER7RFW">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>3</min>
+        <quantmin>2</quantmin>
+        <quantmax>5</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage />
+        <tag name="military"/>
+        <value user="Tier345"/>
+    </type>
+</types>
