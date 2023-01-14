@@ -12890,7 +12890,7 @@
         <tag name="medical" />
   </type>
     <!-- Bloodsuckers -->
-    <type name="ZmbM_BloodSucker_normal">
+  <type name="ZmbM_BloodSucker_normal">
     <nominal>0</nominal>
     <lifetime>1800</lifetime>
     <restock>0</restock>
@@ -12941,7 +12941,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
   </type>
   <!-- CS Weapon Bags 200slot -->
-  	<type name="CS_WeaponBag_Black">
+  <type name="CS_WeaponBag_Black">
 		<nominal>1</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
@@ -12951,7 +12951,7 @@
 		<cost>100</cost>
 		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
 		<value user="Tier7" />
-    	<category name="lantia" />
-    	<tag name="military" />
+    <category name="lantia" />
+    <tag name="military" />
 	</type>
 </types>
