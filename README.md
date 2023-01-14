@@ -1,5 +1,4 @@
 # House-Of-Trash-DayZ
-**Pls keep in mind that this repository is a working in progress as it does not yet have all the files that are needed.**
 
 This is the repository for the House Of Trash DayZ server files. This has been setup to conduct version control, incase in a event were a file breaks, or for when one of the member of the discord wants to help with the edit of the files.
 
