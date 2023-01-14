@@ -1,16 +1,17 @@
-Changed MeduimTent lifetime - 3888000
-Changed Barrel lifetime - 3888000
-Changed Seachest lifetime - 3888000
-Changed SmallProtectorCase lifetime - 3888000
-Changed FireplaceIndoor lifetime - 3888000
-Changed OvenIndoor lifetime - 3888000
-Changed Watchtower lifetime - 3888000
-Changed Fence lifetime - 3888000
-Changed TerritoryFlag lifetime - 3888000
-Changed BarrelHoles lifetime - 3888000
-Changed UndergroundStash lifetime - 3888000
-Changed WoodenCrate lifetime - 3888000
-Changed LargeTent lifetime - 3888000
-Changed CarTent lifetime - 3888000
-Changed PartyTent lifetime - 3888000
-Changed Bonfire lifetime - 3888000
+File: types.xml
+    Changed MeduimTent lifetime - 3888000
+    Changed Barrel lifetime - 3888000
+    Changed Seachest lifetime - 3888000
+    Changed SmallProtectorCase lifetime - 3888000
+    Changed FireplaceIndoor lifetime - 3888000
+    Changed OvenIndoor lifetime - 3888000
+    Changed Watchtower lifetime - 3888000
+    Changed Fence lifetime - 3888000
+    Changed TerritoryFlag lifetime - 3888000
+    Changed BarrelHoles lifetime - 3888000
+    Changed UndergroundStash lifetime - 3888000
+    Changed WoodenCrate lifetime - 3888000
+    Changed LargeTent lifetime - 3888000
+    Changed CarTent lifetime - 3888000
+    Changed PartyTent lifetime - 3888000
+    Changed Bonfire lifetime - 3888000
