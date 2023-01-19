@@ -82,3 +82,8 @@ File: AirdropSettings.json
         Changed: InfectedCount
             From: 50
             To:   15
+
+File: types.xml
+    Added: CookingStand
+    Added: BearTrap
+    Added: SparkPlug
