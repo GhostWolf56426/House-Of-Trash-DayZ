@@ -191,5 +191,13 @@ MODS:
     Add: DayZ Dog
     Add: GDZ-AnimalHeads*
 
-
+File: types.xml
+    Changed: BaseRadio (removed from loot table)
+        From: <nominal>10</nominal>
+              <min>7</min>
+        To:   <nominal>0</nominal>
+              <min>0</min>
+              
+              
+              
 *Same function
