@@ -198,6 +198,7 @@ File: types.xml
         To:   <nominal>0</nominal>
               <min>0</min>
               
-              
+MODS:
+    Add: BBP_Vanilla_Dmg_Doors
               
 *Same function
