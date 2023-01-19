@@ -1,0 +1,58 @@
+{
+    "m_Version": 5,
+    "EnableMap": 1,
+    "UseMapOnMapItem": 1,
+    "ShowPlayerPosition": 1,
+    "ShowMapStats": 1,
+    "NeedPenItemForCreateMarker": 0,
+    "NeedGPSItemForCreateMarker": 0,
+    "CanCreateMarker": 1,
+    "CanCreate3DMarker": 1,
+    "CanOpenMapWithKeyBinding": 1,
+    "ShowDistanceOnPersonalMarkers": 1,
+    "EnableHUDGPS": 1,
+    "NeedGPSItemForKeyBinding": 1,
+    "NeedMapItemForKeyBinding": 0,
+    "EnableServerMarkers": 1,
+    "ShowNameOnServerMarkers": 1,
+    "ShowDistanceOnServerMarkers": 1,
+    "ServerMarkers": [
+        {
+            "m_UID": "ServerMarker_Namalsk_Trader_North",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Traders - Namalsk North",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                6886.875488,
+                29.0,
+                10737.225586
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "ServerMarker_Namalsk_Trader_South",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Traders - Namalsk South",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                2354.410645,
+                12.158705,
+                5706.123535
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        }
+    ],
+    "EnableHUDCompass": 1,
+    "NeedCompassItemForHUDCompass": 1,
+    "NeedGPSItemForHUDCompass": 1,
+    "CompassColor": -1,
+    "CreateDeathMarker": 1,
+    "PlayerLocationNotifier": 1,
+    "CompassBadgesColor": -1946157056
+}
