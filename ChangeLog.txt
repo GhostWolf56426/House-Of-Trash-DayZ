@@ -96,3 +96,23 @@ File: GenralSettings.json
     Changed: EnableGravecross
         From: 0
         To:   1
+
+MODS:
+    Add: XZone STALKER Mutants
+    Add: RedFalcon Watercraft
+    Add: RedFalcon Fligth System Heliz
+    Add: AJs Creatures
+    Add: Wendiga Creature
+    Add: Pernicek
+    Add: Enterable Buildings
+    Add: CS_Food
+    Add: PlateCarrierFix
+    Add: XZone GasMasks
+    Add: RaG_Evil_Snowman
+    Add: Doc's Animals
+    Add: Stalker Snork
+    Add: DarkMutants
+    Add: Banov-Singularity-Canon-Emmisive
+    Add: BoomLay's Things
+    Add: Freezing Mutant
+    Add: PseudoGiant
