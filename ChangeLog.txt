@@ -87,3 +87,7 @@ File: types.xml
     Added: CookingStand
     Added: BearTrap
     Added: SparkPlug
+
+File: cfgeffectarea.json (gas zones)
+    Added: Bering
+    Added: Skat
