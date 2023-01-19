@@ -91,3 +91,8 @@ File: types.xml
 File: cfgeffectarea.json (gas zones)
     Added: Bering
     Added: Skat
+
+File: GenralSettings.json
+    Changed: EnableGravecross
+        From: 0
+        To:   1
