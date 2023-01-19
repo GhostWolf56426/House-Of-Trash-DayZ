@@ -1,64 +1,14 @@
-File: types.xml
-    Changed MeduimTent lifetime - 3888000
-    Changed Barrel lifetime - 3888000
-    Changed Seachest lifetime - 3888000
-    Changed SmallProtectorCase lifetime - 3888000
-    Changed FireplaceIndoor lifetime - 3888000
-    Changed OvenIndoor lifetime - 3888000
-    Changed Watchtower lifetime - 3888000
-    Changed Fence lifetime - 3888000
-    Changed TerritoryFlag lifetime - 3888000
-    Changed BarrelHoles lifetime - 3888000
-    Changed UndergroundStash lifetime - 3888000
-    Changed WoodenCrate lifetime - 3888000
-    Changed LargeTent lifetime - 3888000
-    Changed CarTent lifetime - 3888000
-    Changed PartyTent lifetime - 3888000
-    Changed Bonfire lifetime - 3888000
-    Changed qauntmin and quantmax on ammo
+File: mmg_types_green.xml
+    Changed: MMG_MK_V_Armor_green
+        From:   <value name="Tier67"/>
+        To:     <value user="Tier67"/>
 
-File: expansion_types.xml
-    Changed qauntmin and quantmax on ammo
+File: mmg_types_tan.xml
+    Changed: MMG_MK_V_Armor_tan
+        From:   <value name="Tier6"/>
+        To:     <value user="Tier6"/>
 
-File: cfgeconomycore.xml
-Added: tf_types.xml (only spawnables)
-Added: TacticalFlava_types.xml (This the one Liru changed (broken))
-Added: tf_types_v1.xml (Fixed and fully working Liru verion)
-Added: tf_types_v2.xml (Fully working vanilla verion)
-
-Market:
-    Added: TacticalFlava_Attacments.json
-    Added: TacticalFlava_Backpack.json
-    Added: TacticalFlava_Helmet.json
-    Added: TacticalFlava_NVG.json
-    Added: TacticalFlava_Scopes.json
-    Added: TacticalFlava_Vest.json
-    Added: TacticalFlava_Weapons.json
-
-Trader:
-    Changed: Attachements1to2.json
-        Added: TacticalFlava_Attacments.json
-        Added: TacticalFlava_Scopes.json
-        Removed tier exclusivity
-    Changed: Attachements3to7.json
-        Added: TacticalFlava_Attacments.json
-        Added: TacticalFlava_Scopes.json
-        Removed tier exclusivity
-    Changed: Clothes1to2.json
-        Added: TacticalFlava_Backpack.json
-        Added: TacticalFlava_Helmet.json
-        Added: TacticalFlava_NVG.json
-        Added: TacticalFlava_Vest.json
-        Removed tier exclusivity
-    Changed: Clothes37.json
-        Added: TacticalFlava_Backpack.json
-        Added: TacticalFlava_Helmet.json
-        Added: TacticalFlava_NVG.json
-        Added: TacticalFlava_Vest.json
-        Removed tier exclusivity
-    Changed: Weapons1to2.json
-        Added: TacticalFlava_Weapons.json
-        Removed tier exclusivity
-    Changed: Weapons3to7.json
-        Added: TacticalFlava_Weapons.json
-        Removed tier exclusivity
+File: types_er7.xml
+    Changed: ER7_Gauss
+        From:   <value name="Tier67"/>
+        To:     <value user="Tier67"/>
