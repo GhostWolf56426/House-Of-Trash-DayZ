@@ -84,7 +84,6 @@ File: AirdropSettings.json
             To:   15
 
 File: types.xml
-    Added: CookingStand
     Added: BearTrap
     Added: SparkPlug
 
@@ -116,3 +115,71 @@ MODS:
     Add: BoomLay's Things
     Add: Freezing Mutant
     Add: PseudoGiant
+
+File: types.xml
+    Added: M4_OEBttstck
+    Added: M4_MPBttstck
+    Added: M4_CQBBttstck
+    Added: AK_WoodBttstck
+    Added: AK74_WoodBttstck
+    Added: AK_FoldingBttstck
+    Added: AK_PlasticBttstck
+    Added: AKS74U_Bttstck
+    Added: PP19_Bttstck
+    Added: MP5k_StockBttstck
+    Added: Fal_OeBttstck
+    Added: Fal_FoldingBttstck
+    Added: M4_PlasticHndgrd
+
+    Added: M4_MPHndgrd
+    Added: AK_WoodHndgrd
+    Added: AK74_Hndgrd
+
+    Added: AK_PlsticHndgrd
+    Added: MP5_PlasticHndgrd
+
+    Added: Saiga_Bttstck
+    
+    Added: WaterproofBag_Yellow
+    Added: WaterproffBag_Green
+    Added: WaterproofBag_Orange
+    Added: Tripod
+
+    Added: Lockpick
+
+    Added: TireRepairKit
+
+    Added: LugWrench
+
+    Added: Shirt_BlueCheck
+    Added: Shirt_BlueCheckBright
+    Added: Shirt_GreenCheck
+    Added: Shirt_RedCheck
+    Added: Shirt_WhiteCheck
+    Added: Shirt_PlaneBlack
+
+    Added: CanvasPants_Beige
+    Added: CanvasPants_Grey
+    Added: CanvasPants_Red
+    Added: CanvasPants_Blue
+    Added: CanvasPants_Violet
+
+    Added: PlateCarrierVest
+    Added: PlateCarrierVest_Black
+    Added: PlateCarrierVest_Green
+    Added: PlateCarrierVest_Camo
+
+    Added: SmerhVest
+
+    Added: UKAssVest_Black
+    Added: UKAssVest_Camo
+    Added: UKAssVest_Khaki
+    Added: UKAssVest_Olive
+    Added: HighCapacityVest_Black
+    Added: HighCapacityVest_Olive
+
+    Added: AthleticShoes_Blue
+    Added: AthleticShoes_Black
+    Added: AthleticShoes_Brown
+    Added: AthleticShoes_Green
+    Added: AthlecticShoes_Grey
