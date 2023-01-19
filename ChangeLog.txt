@@ -108,7 +108,7 @@ MODS:
     Add: PlateCarrierFix
     Add: XZone GasMasks
     Add: RaG_Evil_Snowman
-    Add: Doc's Animals
+    Add: Doc's Animals*
     Add: Stalker Snork
     Add: DarkMutants
     Add: Banov-Singularity-Canon-Emmisive
@@ -183,3 +183,13 @@ File: types.xml
     Added: AthleticShoes_Brown
     Added: AthleticShoes_Green
     Added: AthlecticShoes_Grey
+
+MODS:
+    Add: Heatmap
+    Add: SkinCraft
+    Add: FieldShovelPlus
+    Add: DayZ Dog
+    Add: GDZ-AnimalHeads*
+
+
+*Same function
