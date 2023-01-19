@@ -15,3 +15,4 @@ File: types.xml
     Changed CarTent lifetime - 3888000
     Changed PartyTent lifetime - 3888000
     Changed Bonfire lifetime - 3888000
+    Changed qauntmin and quantmax on ammo
