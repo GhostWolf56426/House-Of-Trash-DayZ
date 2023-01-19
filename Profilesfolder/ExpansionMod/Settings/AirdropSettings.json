@@ -2,7 +2,7 @@
     "m_Version": 2,
     "ServerMarkerOnDropLocation": 1,
     "Server3DMarkerOnDropLocation": 1,
-    "ShowAirdropTypeOnMarker": 1,
+    "ShowAirdropTypeOnMarker": 0,
     "HeightIsRelativeToGroundLevel": 1,
     "Height": 450.0,
     "FollowTerrainFraction": 0.5,
@@ -266,26 +266,10 @@
                     "Variants": []
                 },
                 {
-                    "Name": "dzn_map_namalsk",
-                    "Attachments": [],
-                    "Chance": 0.30000001192092898,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
                     "Name": "Rangefinder",
                     "Attachments": [
                         "Battery9V"
                     ],
-                    "Chance": 0.05000000074505806,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "ExpansionGPS",
-                    "Attachments": [],
                     "Chance": 0.05000000074505806,
                     "QuantityPercent": -1,
                     "Max": -1,
@@ -364,24 +348,6 @@
                     "Variants": []
                 },
                 {
-                    "Name": "BallisticHelmet_UN",
-                    "Attachments": [],
-                    "Chance": 0.07999999821186066,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "DirtBikeHelmet_Chernarus",
-                    "Attachments": [
-                        "DirtBikeHelmet_Visor"
-                    ],
-                    "Chance": 0.30000001192092898,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
                     "Name": "SewingKit",
                     "Attachments": [],
                     "Chance": 0.25,
@@ -407,14 +373,6 @@
                 },
                 {
                     "Name": "Lockpick",
-                    "Attachments": [],
-                    "Chance": 0.05000000074505806,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "GhillieAtt_Mossy",
                     "Attachments": [],
                     "Chance": 0.05000000074505806,
                     "QuantityPercent": -1,
@@ -780,7 +738,7 @@
                 "ZmbF_MilkMaidOld_Grey"
             ],
             "ItemCount": 30,
-            "InfectedCount": 25,
+            "InfectedCount": 10,
             "SpawnInfectedForPlayerCalledDrops": 0
         },
         {
@@ -917,14 +875,6 @@
                     "Variants": []
                 },
                 {
-                    "Name": "BloodTestKit",
-                    "Attachments": [],
-                    "Chance": 0.20000000298023225,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
                     "Name": "IodineTincture",
                     "Attachments": [],
                     "Chance": 0.20000000298023225,
@@ -939,90 +889,6 @@
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Variants": []
-                },
-                {
-                    "Name": "MedicalScrubsHat_Blue",
-                    "Attachments": [],
-                    "Chance": 0.23999999463558198,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": [
-                        {
-                            "Name": "MedicalScrubsHat_White",
-                            "Attachments": [],
-                            "Chance": 1.0
-                        },
-                        {
-                            "Name": "MedicalScrubsHat_Green",
-                            "Attachments": [],
-                            "Chance": 1.0
-                        }
-                    ]
-                },
-                {
-                    "Name": "MedicalScrubsPants_Blue",
-                    "Attachments": [],
-                    "Chance": 0.23999999463558198,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": [
-                        {
-                            "Name": "MedicalScrubsPants_White",
-                            "Attachments": [],
-                            "Chance": 1.0
-                        },
-                        {
-                            "Name": "MedicalScrubsPants_Green",
-                            "Attachments": [],
-                            "Chance": 1.0
-                        }
-                    ]
-                },
-                {
-                    "Name": "MedicalScrubsShirt_Blue",
-                    "Attachments": [],
-                    "Chance": 0.23999999463558198,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": [
-                        {
-                            "Name": "MedicalScrubsShirt_White",
-                            "Attachments": [],
-                            "Chance": 1.0
-                        },
-                        {
-                            "Name": "MedicalScrubsShirt_Green",
-                            "Attachments": [],
-                            "Chance": 1.0
-                        }
-                    ]
-                },
-                {
-                    "Name": "NioshFaceMask",
-                    "Attachments": [],
-                    "Chance": 0.07999999821186066,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "SurgicalGloves_Blue",
-                    "Attachments": [],
-                    "Chance": 0.23999999463558198,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": [
-                        {
-                            "Name": "SurgicalGloves_LightBlue",
-                            "Attachments": [],
-                            "Chance": 1.0
-                        },
-                        {
-                            "Name": "SurgicalGloves_Green",
-                            "Attachments": [],
-                            "Chance": 1.0
-                        }
-                    ]
                 },
                 {
                     "Name": "FirstAidKit",
@@ -1121,8 +987,7 @@
                         {
                             "Name": "FirstAidKit",
                             "Attachments": [
-                                "VitaminBottle",
-                                "SurgicalGloves_Blue"
+                                "VitaminBottle"
                             ],
                             "Chance": 0.06377000361680985
                         },
@@ -1162,86 +1027,6 @@
                     ]
                 },
                 {
-                    "Name": "NBCBootsGray",
-                    "Attachments": [],
-                    "Chance": 0.05000000074505806,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "NBCBootsYellow",
-                    "Attachments": [],
-                    "Chance": 0.10000000149011612,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "NBCGlovesGray",
-                    "Attachments": [],
-                    "Chance": 0.05000000074505806,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "NBCGlovesYellow",
-                    "Attachments": [],
-                    "Chance": 0.10000000149011612,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "NBCHoodGray",
-                    "Attachments": [],
-                    "Chance": 0.05000000074505806,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "NBCHoodYellow",
-                    "Attachments": [],
-                    "Chance": 0.10000000149011612,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "NBCJacketGray",
-                    "Attachments": [],
-                    "Chance": 0.05000000074505806,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "NBCJacketYellow",
-                    "Attachments": [],
-                    "Chance": 0.10000000149011612,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "NBCPantsGray",
-                    "Attachments": [],
-                    "Chance": 0.05000000074505806,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "NBCPantsYellow",
-                    "Attachments": [],
-                    "Chance": 0.10000000149011612,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
                     "Name": "AirborneMask",
                     "Attachments": [
                         "GasMask_Filter"
@@ -1250,11 +1035,6 @@
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Variants": [
-                        {
-                            "Name": "AirborneMask",
-                            "Attachments": [],
-                            "Chance": 0.800000011920929
-                        }
                     ]
                 },
                 {
@@ -1266,11 +1046,6 @@
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Variants": [
-                        {
-                            "Name": "GP5GasMask",
-                            "Attachments": [],
-                            "Chance": 0.800000011920929
-                        }
                     ]
                 },
                 {
@@ -1381,7 +1156,7 @@
                 "ZmbM_PatientSkinny"
             ],
             "ItemCount": 25,
-            "InfectedCount": 15,
+            "InfectedCount": 10,
             "SpawnInfectedForPlayerCalledDrops": 0
         },
         {
@@ -1409,22 +1184,6 @@
                     "Name": "MetalPlate",
                     "Attachments": [],
                     "Chance": 0.25,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "WoodenPlank",
-                    "Attachments": [],
-                    "Chance": 0.5,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "Fabric",
-                    "Attachments": [],
-                    "Chance": 0.5,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Variants": []
@@ -2701,169 +2460,9 @@
                     "Variants": []
                 },
                 {
-                    "Name": "Ammo_Expansion_M203_Smoke_White",
-                    "Attachments": [],
-                    "Chance": 0.07999999821186066,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_Expansion_M203_Smoke_Red",
-                    "Attachments": [],
-                    "Chance": 0.07999999821186066,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_Expansion_M203_Smoke_Green",
-                    "Attachments": [],
-                    "Chance": 0.07999999821186066,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_Expansion_M203_Smoke_Yellow",
-                    "Attachments": [],
-                    "Chance": 0.07999999821186066,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_Expansion_M203_Smoke_Purple",
-                    "Attachments": [],
-                    "Chance": 0.07999999821186066,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_Expansion_M203_Smoke_Teargas",
-                    "Attachments": [],
-                    "Chance": 0.05000000074505806,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_Expansion_M203_Sticky_Smoke_White",
-                    "Attachments": [],
-                    "Chance": 0.05000000074505806,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_Expansion_M203_Sticky_Smoke_Red",
-                    "Attachments": [],
-                    "Chance": 0.05000000074505806,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_Expansion_M203_Sticky_Smoke_Green",
-                    "Attachments": [],
-                    "Chance": 0.05000000074505806,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_Expansion_M203_Sticky_Smoke_Yellow",
-                    "Attachments": [],
-                    "Chance": 0.05000000074505806,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_Expansion_M203_Sticky_Smoke_Purple",
-                    "Attachments": [],
-                    "Chance": 0.05000000074505806,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_Expansion_M203_Sticky_Smoke_Teargas",
-                    "Attachments": [],
-                    "Chance": 0.019999999552965165,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "Ammo_Expansion_M203_HE",
-                    "Attachments": [],
-                    "Chance": 0.699999988079071,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
                     "Name": "ExpansionAmmoRPG",
                     "Attachments": [],
                     "Chance": 0.05000000074505806,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "UKAssVest_Black",
-                    "Attachments": [],
-                    "Chance": 0.10000000149011612,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "UKAssVest_Camo",
-                    "Attachments": [],
-                    "Chance": 0.10000000149011612,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "UKAssVest_Khaki",
-                    "Attachments": [],
-                    "Chance": 0.10000000149011612,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "UKAssVest_Olive",
-                    "Attachments": [],
-                    "Chance": 0.10000000149011612,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "HighCapacityVest_Black",
-                    "Attachments": [],
-                    "Chance": 0.10000000149011612,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "HighCapacityVest_Olive",
-                    "Attachments": [],
-                    "Chance": 0.10000000149011612,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "PlateCarrierVest",
-                    "Attachments": [],
-                    "Chance": 0.07999999821186066,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Variants": []
@@ -2885,17 +2484,6 @@
                     "Variants": []
                 },
                 {
-                    "Name": "PlateCarrierVest",
-                    "Attachments": [
-                        "PlateCarrierHolster",
-                        "PlateCarrierPouches"
-                    ],
-                    "Chance": 0.05000000074505806,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
                     "Name": "TacticalBaconCan",
                     "Attachments": [],
                     "Chance": 0.10000000149011612,
@@ -2907,38 +2495,6 @@
                     "Name": "Bear_Pink",
                     "Attachments": [],
                     "Chance": 0.10000000149011612,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "GhillieAtt_Mossy",
-                    "Attachments": [],
-                    "Chance": 0.20000000298023225,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "GhillieHood_Mossy",
-                    "Attachments": [],
-                    "Chance": 0.10000000149011612,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "GhillieBushrag_Mossy",
-                    "Attachments": [],
-                    "Chance": 0.05000000074505806,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "GhillieSuit_Mossy",
-                    "Attachments": [],
-                    "Chance": 0.05000000074505806,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Variants": []
@@ -2954,7 +2510,7 @@
                 "ZmbM_PatrolNormal_Summer"
             ],
             "ItemCount": 50,
-            "InfectedCount": 50,
+            "InfectedCount": 15,
             "SpawnInfectedForPlayerCalledDrops": 0
         }
     ]

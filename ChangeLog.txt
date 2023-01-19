@@ -12,3 +12,73 @@ File: types_er7.xml
     Changed: ER7_Gauss
         From:   <value name="Tier67"/>
         To:     <value user="Tier67"/>
+
+File: AirdropSettings.json
+    Changed: ShowAirdropTypeOnMarker
+        From:   1
+        To:     0
+    Changed: ExpansionAirdropContainer
+        Removed: dzn_map_namalsk
+        Removed: ExpansionGPS
+        Removed: BallisticHelmet_UN
+        Removed: DirtBikeHelmet_Chernarus
+        Removed: GhillieAtt_Mossy
+        Changed: InfectedCount
+            From: 25
+            To:   10 
+    Changed: ExpansionAirdropContainer_Medical
+        Removed: MedicalScrubsHat_Blue + Variants
+        Removed: MedicalScrubsPants_Blue + Variants
+        Removed: MedicalScrubsShirt_Blue + Variants
+        Removed: NioshFaceMask
+        Removed: SurgicalGloves_Blue + Variants
+        Changed: FirstAidKit
+            Removed: SurgicalGloves_Blue
+        Removed: NBCBootsGray
+        Removed: NBCBootsYellow
+        Removed: NBCGlovesGray
+        Removed: NBCGlovesYellow
+        Removed: NBCHoodGray
+        Removed: NBCHoodYellow
+        Removed: NBCJacketGray
+        Removed: NBCJacketYellow
+        Removed: NBCPantsGray
+        Removed: NBCPantsYellow
+        Changed: AirborneMask
+            Removed: AirborneMAsk
+        Changed: GP5GasMask
+            Removed: GP5GasMask
+        Changed: InfectedCount
+            From: 15
+            To:   10
+    Changed: ExpansionAirdropContainer_Basebuilding
+        Removed: WoodenPlank
+        Removed: Fabric
+    Changed: ExpansionAirdropContainer_Military_WinterCamo
+        Removed: Ammo_Expansion_M203_Smoke_White
+        Removed: Ammo_Expansion_M203_Smoke_Red
+        Removed: Ammo_Expansion_M203_Smoke_Green
+        Removed: Ammo_Expansion_M203_Smoke_Yellow
+        Removed: Ammo_Expansion_M203_Smoke_Purple
+        Removed: Ammo_Expansion_M203_Smoke_Teargas
+        Removed: Ammo_Expansion_M203_Sticky_Smoke_White
+        Removed: Ammo_Expansion_M203_Sticky_Smoke_Red
+        Removed: Ammo_Expansion_M203_Sticky_Smoke_Green
+        Removed: Ammo_Expansion_M203_Sticky_Smoke_Yellow
+        Removed: Ammo_Expansion_M203_Sticky_Smoke_Purple
+        Removed: Ammo_Expansion_M203_Sticky_Smoke_Teargas
+        Removed: Ammo_Expansion_M203_HE
+        Removed: UKAssVest_Black
+        Removed: UKAssVest_Camo
+        Removed: UKAssVest_Khaki
+        Removed: UKAssVest_Olive
+        Removed: HighCapacityVest_Black
+        Removed: HighCapacityVest_Olive
+        Removed: PlateCarrierVest
+        Removed: GhillieAtt_Mossy
+        Removed: GhillieHood_Mossy
+        Removed: GhillieBushrag_Mossy
+        Removed: GhillieSuit_Mossy
+        Changed: InfectedCount
+            From: 50
+            To:   15
