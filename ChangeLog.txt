@@ -16,3 +16,6 @@ File: types.xml
     Changed PartyTent lifetime - 3888000
     Changed Bonfire lifetime - 3888000
     Changed qauntmin and quantmax on ammo
+
+File: expansion_types.xml
+    Changed qauntmin and qauntmax on ammo
