@@ -97,24 +97,23 @@ File: GenralSettings.json
         To:   1
 
 MODS:
-    Add: XZone STALKER Mutants
-    Add: RedFalcon Watercraft
-    Add: RedFalcon Fligth System Heliz
-    Add: AJs Creatures
-    Add: Wendiga Creature
-    Add: Pernicek
-    Add: Enterable Buildings
-    Add: CS_Food
-    Add: PlateCarrierFix
-    Add: XZone GasMasks
-    Add: RaG_Evil_Snowman
-    Add: Doc's Animals*
-    Add: Stalker Snork
-    Add: DarkMutants
-    Add: Banov-Singularity-Canon-Emmisive
-    Add: BoomLay's Things
-    Add: Freezing Mutant
-    Add: PseudoGiant
+    Add: XZone STALKER Mutants - https://steamcommunity.com/sharedfiles/filedetails/?id=2525642572
+    Add: RedFalcon Watercraft - https://steamcommunity.com/sharedfiles/filedetails/?id=2906371600
+    Add: RedFalcon Fligth System Heliz - https://steamcommunity.com/sharedfiles/filedetails/?id=2692979668
+    Add: AJs Creatures - https://steamcommunity.com/sharedfiles/filedetails/?id=2907367755
+    Add: Wendiga Creature - https://steamcommunity.com/sharedfiles/filedetails/?id=2882158476
+    Add: Pernicek - https://steamcommunity.com/sharedfiles/filedetails/?id=2898679826
+    Add: Enterable Buildings - https://steamcommunity.com/sharedfiles/filedetails/?id=2902339238
+    Add: CS_Food - https://steamcommunity.com/sharedfiles/filedetails/?id=2896543528
+    Add: PlateCarrierFix - https://steamcommunity.com/sharedfiles/filedetails/?id=2892294760
+    Add: RaG_Evil_Snowman - https://steamcommunity.com/sharedfiles/filedetails/?id=2886730223
+    Add: Doc's Animals* - https://steamcommunity.com/sharedfiles/filedetails/?id=2886393751
+    Add: Stalker Snork - https://steamcommunity.com/sharedfiles/filedetails/?id=2900619539
+    Add: DarkMutants - https://steamcommunity.com/sharedfiles/filedetails/?id=2889529846
+    Add: Banov-Singularity-Canon-Emmisive - https://steamcommunity.com/sharedfiles/filedetails/?id=2911838455
+    Add: BoomLay's Things - https://steamcommunity.com/sharedfiles/filedetails/?id=2860643107
+    Add: Freezing Mutant - https://steamcommunity.com/sharedfiles/filedetails/?id=2867537797
+    Add: PseudoGiant - https://steamcommunity.com/sharedfiles/filedetails/?id=2847957663
 
 File: types.xml
     Added: M4_OEBttstck
@@ -185,11 +184,11 @@ File: types.xml
     Added: AthlecticShoes_Grey
 
 MODS:
-    Add: Heatmap
-    Add: SkinCraft
-    Add: FieldShovelPlus
-    Add: DayZ Dog
-    Add: GDZ-AnimalHeads*
+    Add: Heatmap - https://steamcommunity.com/sharedfiles/filedetails/?id=2854246756
+    Add: SkinCraft - https://steamcommunity.com/sharedfiles/filedetails/?id=1836951845
+    Add: FieldShovelPlus - https://steamcommunity.com/sharedfiles/filedetails/?id=2114177429
+    Add: DayZ Dog - https://steamcommunity.com/sharedfiles/filedetails/?id=2471347750
+    Add: GDZ-AnimalHeads* - https://steamcommunity.com/sharedfiles/filedetails/?id=2530618460
 
 File: types.xml
     Changed: BaseRadio (removed from loot table)
@@ -199,6 +198,13 @@ File: types.xml
               <min>0</min>
               
 MODS:
-    Add: BBP_Vanilla_Dmg_Doors
+    Add: BBP_Vanilla_Dmg_Doors - https://steamcommunity.com/sharedfiles/filedetails/?id=2815793829
+    Add: Notes - https://steamcommunity.com/sharedfiles/filedetails/?id=1999076953
+    Add: StalkerZ Mutants - https://steamcommunity.com/sharedfiles/filedetails/?id=2485116735
+    Add: StalkerZ Weapons - https://steamcommunity.com/sharedfiles/filedetails/?id=2521466850
+    Add: XZone Artifacts - https://steamcommunity.com/sharedfiles/filedetails/?id=2739689123
+    Add: XZone Chernobyl Map - https://steamcommunity.com/sharedfiles/filedetails/?id=2441756548
+    Add: XZone GasMasks - https://steamcommunity.com/sharedfiles/filedetails/?id=2888171250
+    Add: XZone Steel arms Knives - https://steamcommunity.com/sharedfiles/filedetails/?id=2429390013
               
 *Same function
