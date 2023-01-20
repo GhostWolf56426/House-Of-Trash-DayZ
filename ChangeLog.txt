@@ -84,6 +84,7 @@ File: AirdropSettings.json
             To:   15
 
 File: types.xml
+    Added: Tripod
     Added: BearTrap
     Added: SparkPlug
 
