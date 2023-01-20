@@ -83,11 +83,6 @@ File: AirdropSettings.json
             From: 50
             To:   15
 
-
-File: cfgeffectarea.json (gas zones)
-    Added: Bering
-    Added: Skat
-
 File: GenralSettings.json
     Changed: EnableGravecross
         From: 0
