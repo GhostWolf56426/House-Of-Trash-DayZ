@@ -83,11 +83,6 @@ File: AirdropSettings.json
             From: 50
             To:   15
 
-File: GenralSettings.json
-    Changed: EnableGravecross
-        From: 0
-        To:   1
-
 MODS:
     Add: XZone STALKER Mutants - https://steamcommunity.com/sharedfiles/filedetails/?id=2525642572
     Add: RedFalcon Watercraft - https://steamcommunity.com/sharedfiles/filedetails/?id=2906371600
