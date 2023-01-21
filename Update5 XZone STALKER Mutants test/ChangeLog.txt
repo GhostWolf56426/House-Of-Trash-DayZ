@@ -3,9 +3,11 @@ MODS:
 
 Added:
     File: xzone_mutants_types.xml
+    file: xzone_mutants_spawnabletypes.xml
 
 File: cfgeconomycore.xml
     Added: <file name="xzone_mutants_types.xml" type="types"/>
+    Added: <file name="xzone_mutants_spawnabletypes.xml" type="spawnabletypes"/>
 
 File: events.xml
     Added: <event name="InfectedBoar">
@@ -35,3 +37,6 @@ File: zombies_territoriies.xml
 
 File: cfgrandomprests.xml
     Added: XZone STALKER Mutants
+
+File: START.bat
+    Added: @XZone STALKER Mutants;
