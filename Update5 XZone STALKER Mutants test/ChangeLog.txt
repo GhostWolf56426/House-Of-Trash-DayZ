@@ -32,3 +32,6 @@ File: zombies_territoriies.xml
     (verify spawn locations)
     (verify correct spawning)
     Added: XZone STALKER Mutants
+
+File: cfgrandomprests.xml
+    Added: XZone STALKER Mutants

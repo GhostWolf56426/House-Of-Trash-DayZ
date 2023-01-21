@@ -300,4 +300,82 @@
         <item name="RGD5Grenade" chance="0.25" />
         <item name="M67Grenade" chance="0.25" />
     </cargo>
+	<!-- Mod: XZone STALKER Mutants -->
+	<cargo chance="1" name="boarloot">
+		<item name="XZ_Boar_serdce" chance="0.34"/>
+		<item name="XZ_Boar_liver" chance="0.33"/>
+		<item name="Mutant_XZ_Boar_leg" chance="0.33"/>
+	</cargo>
+	<cargo chance="1" name="burerloot">
+		<item name="Mutant_XZ_Burer_Hand" chance="0.25"/>
+		<item name="XZ_Burer_liver" chance="0.25"/>
+		<item name="XZ_Burer_serdce" chance="0.25"/>
+		<item name="XZ_Burer_brain" chance="0.25"/>
+	</cargo>
+	<cargo chance="1" name="catloot">
+		<item name="Mutant_XZ_Cat_Leg" chance="0.34"/>
+		<item name="XZ_Cat_Bayn_liver" chance="0.33"/>
+		<item name="XZ_Cat_Bayn_serdce" chance="0.33"/>
+	</cargo>
+	<cargo chance="1" name="himeraloot">
+		<item name="Mutant_XZ_Himera_Kogot" chance="0.34"/>
+		<item name="XZ_Himera_serdce" chance="0.33"/>
+		<item name="XZ_Himera_liver" chance="0.33"/>
+	</cargo>
+	<cargo chance="1" name="dogloot">
+		<item name="Mutant_XZ_Dog_Tail" chance="0.34"/>
+		<item name="XZ_Dog_liver" chance="0.33"/>
+		<item name="XZ_Dog_serdce" chance="0.33"/>
+	</cargo>
+	<cargo chance="1" name="freshloot">
+		<item name="Mutant_XZ_Fresh_Eye" chance="0.34"/>
+		<item name="XZ_Fresh_liver" chance="0.33"/>
+		<item name="XZ_Fresh_serdce" chance="0.33"/>
+	</cargo>
+	<cargo chance="1" name="izlomloot">
+		<item name="Mutant_XZ_Izlom_Hand" chance="0.25"/>
+		<item name="XZ_Izlom_liver" chance="0.25"/>
+		<item name="XZ_Izlom_serdce" chance="0.25"/>
+		<item name="XZ_Izlom_brain" chance="0.25"/>
+	</cargo>
+	<cargo chance="1" name="krovososloot">
+		<item name="Mutant_XZ_Krovosos_Jaw" chance="0.25"/>
+		<item name="XZ_Krovosos_liver" chance="0.25"/>
+		<item name="XZ_Krovosos_serdce" chance="0.25"/>
+		<item name="XZ_Krovosos_brain" chance="0.25"/>
+	</cargo>
+	<cargo chance="1" name="pdogloot">
+		<item name="Mutant_XZ_Pdog_Tail" chance="0.34"/>
+		<item name="XZ_Pdog_liver" chance="0.33"/>
+		<item name="XZ_Pdog_serdce" chance="0.33"/>
+	</cargo>
+	<cargo chance="1" name="pgigantloot">
+		<item name="Mutant_XZ_Pgigant_Hand" chance="0.25"/>
+		<item name="XZ_Pgigant_liver" chance="0.25"/>
+		<item name="XZ_Pgigant_serdce" chance="0.25"/>
+		<item name="XZ_Pgigant_brain" chance="0.25"/>
+	</cargo>
+	<cargo chance="1" name="poltergeistloot">
+		<item name="Mutant_XZ_Poltergeist_Eye" chance="0.25"/>
+		<item name="XZ_Poltergeist_liver" chance="0.25"/>
+		<item name="XZ_Poltergeist_serdce" chance="0.25"/>
+		<item name="XZ_Poltergeist_brain" chance="0.25"/>
+	</cargo>
+	<cargo chance="1" name="snorkloot">
+		<item name="Mutant_XZ_Snork_Leg" chance="0.25"/>
+		<item name="XZ_Snork_liver" chance="0.25"/>
+		<item name="XZ_Snork_serdce" chance="0.25"/>
+		<item name="XZ_Snork_brain" chance="0.25"/>
+	</cargo>
+	<cargo chance="1" name="tushkanoloot">
+		<item name="Mutant_XZ_Tushkano_Head" chance="0.34"/>
+		<item name="XZ_Tushkano_liver" chance="0.33"/>
+		<item name="XZ_Tushkano_serdce" chance="0.33"/>
+	</cargo>
+	<cargo chance="1" name="xzzombloot">
+		<item name="Mutant_XZ_Zombi_Hand" chance="0.25"/>
+		<item name="XZ_Zombi_liver" chance="0.25"/>
+		<item name="XZ_Zombi_serdce" chance="0.25"/>
+		<item name="XZ_Zombi_brain" chance="0.25"/>
+	</cargo>
 </randompresets>
