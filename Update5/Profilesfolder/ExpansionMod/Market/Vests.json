@@ -1,0 +1,89 @@
+{
+    "m_Version": 12,
+    "DisplayName": "VESTS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0,
+    "Items": [
+        {
+            "ClassName": "dzn_platecarriervest_nac",
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "huntingvest",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "dzn_smershvest_white",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "pressvest_blue",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "pressvest_lightblue"
+            ]
+        },
+        {
+            "ClassName": "policevest",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "dzn_ukassvest_white",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "reflexvest",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

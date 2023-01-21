@@ -1,0 +1,34 @@
+{
+    "m_Version": 10,
+    "DisplayName": "WEAPONS",
+    "MinRequiredReputation": -2147483648,
+    "MaxRequiredReputation": 2147483647,
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Rifles",
+        "Pistols",
+        "Explosives",
+        "Melee_Weapons",
+        "Ammo",
+        "Ammo_Boxes",
+        "TacticalFlava_Weapons"
+    ],
+    "Items":{
+        "Ammo_Expansion_M203_Smoke_White":2,
+        "Ammo_Expansion_M203_Smoke_Red":2,
+        "Ammo_Expansion_M203_Smoke_Green":2,
+        "Ammo_Expansion_M203_Smoke_Yellow":2,
+        "Ammo_Expansion_M203_Smoke_Purple":2,
+        "Ammo_Expansion_M203_Smoke_Teargas":2,
+        "Ammo_Expansion_M203_Sticky_Smoke_White":2,
+        "Ammo_Expansion_M203_Sticky_Smoke_Red":2,
+        "Ammo_Expansion_M203_Sticky_Smoke_Green":2,
+        "Ammo_Expansion_M203_Sticky_Smoke_Yellow":2,
+        "Ammo_Expansion_M203_Sticky_Smoke_Purple":2,
+        "Ammo_Expansion_M203_Sticky_Smoke_Teargas":2,
+        "Ammo_Expansion_M203_HE":2
+    }
+}
