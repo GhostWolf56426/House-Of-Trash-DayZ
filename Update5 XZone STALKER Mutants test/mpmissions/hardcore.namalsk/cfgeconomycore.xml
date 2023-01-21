@@ -33,5 +33,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="mmg_types_patches.xml" type="types"/>
 		<file name="mmg_types_tan.xml" type="types"/>
 		<file name="tf_types_v1.xml" type="types"/>
+		<file name="xzone_mutants_types.xml" type="types"/>
     </ce>
 </economycore>
