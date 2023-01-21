@@ -9,21 +9,21 @@ File: cfgeconomycore.xml
 
 File: events.xml
     Added: <event name="InfectedBoar">
-            <waves>0</waves>
-            <nominal>0</nominal>
-            <min>0</min>
-            <max>101</max>
-            <lifetime>3</lifetime>
-            <restock>0</restock>
-            <saferadius>100</saferadius>
-            <distanceradius>50</distanceradius>
-            <cleanupradius>100</cleanupradius>
-            <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
-            <position>player</position>
-            <limit>custom</limit>
-            <active>1</active>
-            <children>
-             <child lootmax="0" lootmin="0" max="0" min="70" type="Mutant_XZ_Boar1"/>
-             <child lootmax="0" lootmin="0" max="0" min="70" type="Mutant_XZ_Boar2"/>
-            </children>
-           </event>
+    Added: <event name="InfectedBurer">
+    Added: <event name="InfectedCatBayn">
+    Added: <event name="InfectedHimera">
+    Added: <event name="InfectedDog">
+    Added: <event name="InfectedFresh">
+    Added: <event name="InfectedIzlom">
+    Added: <event name="InfectedKrovosos">
+    Added: <event name="InfectedPseDog">
+    Added: <event name="InfectedPGigant">
+    Added: <event name="InfectedPoltergeist">
+    Added: <event name="InfectedSnork">
+    Added: <event name="InfectedTushkano">
+    Added: <event name="InfectedCivTrup">
+    Added: <event name="InfectedNovice">
+    Added: <event name="InfectedLoner">
+    Added: <event name="InfectedDuty">
+    Added: <event name="InfectedFreedom">
+    Added: <event name="InfectedMonolith">
