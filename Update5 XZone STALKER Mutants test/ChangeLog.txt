@@ -27,3 +27,8 @@ File: events.xml
     Added: <event name="InfectedDuty">
     Added: <event name="InfectedFreedom">
     Added: <event name="InfectedMonolith">
+
+File: zombies_territoriies.xml
+    (verify spawn locations)
+    (verify correct spawning)
+    Added: XZone STALKER Mutants
