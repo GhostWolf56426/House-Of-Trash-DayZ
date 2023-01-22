@@ -9,3 +9,4 @@ Added:
     Namalsk TF Bering.map
     Namalsk Ice Airfield.map
     Namalsk Brensk Military camp.map
+    Namalsk Skat12.map
