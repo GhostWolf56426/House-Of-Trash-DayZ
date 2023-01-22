@@ -1,0 +1,80 @@
+{
+    "m_Version": 12,
+    "DisplayName": "GHILLIE",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0,
+    "Items": [
+        {
+            "ClassName": "ghillieatt_woodland",
+            "MaxPriceThreshold": 440,
+            "MinPriceThreshold": 440,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "dzn_att_ghillie_winter",
+                "dzn_att_ghillie_tandark"
+            ]
+        },
+        {
+            "ClassName": "ghilliebushrag_woodland",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "dzn_ghilliebushragwinter",
+                "dzn_ghilliebushragtandark"
+            ]
+        },
+        {
+            "ClassName": "ghillietop_woodland",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "dzn_ghillietopwinter",
+                "dzn_ghillietotandark"
+            ]
+        },
+        {
+            "ClassName": "ghilliesuit_woodland",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "dzn_ghilliesuitwinter",
+                "dzn_ghilliesuittandark"
+            ]
+        },
+        {
+            "ClassName": "ghilliehood_woodland",
+            "MaxPriceThreshold": 440,
+            "MinPriceThreshold": 440,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "dzn_ghilliehoodwinter",
+                "dzn_ghilliehoodtandark"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<economycore>
+	<classes>
+<!--
+These are rootclasses to be used by economy.
+Do not forget to add attribute act="character", if root class represents character (player, infected, animal)
+Do not forget to add attribute act="car", if root class represents moveable vehicles
+-->
+		<rootclass name="DefaultWeapon" /> <!-- weapons -->
+		<rootclass name="DefaultMagazine" /> <!-- magazines -->
+		<rootclass name="Inventory_Base" /> <!-- inventory items -->
+		<rootclass name="HouseNoDestruct" reportMemoryLOD="no" /> <!-- houses, wrecks -->
+		<rootclass name="SurvivorBase" act="character" reportMemoryLOD="no" /> <!-- player characters -->
+		<rootclass name="DZ_LightAI" act="character" reportMemoryLOD="no" /> <!-- infected, animals -->
+		<rootclass name="CarScript" act="car" reportMemoryLOD="no" /> <!-- cars (sedan, hatchback, transitBus, V3S, ...) -->
+	</classes>
+	<ce folder="db">
+		<file name="types_dzn.xml" type="types" />
+	</ce>
+
+	<!-- Expansion -->
+	<ce folder="expansion_ce">
+		<file name="expansion_types.xml" type="types" />
+		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
+	</ce>
+    <ce folder="mods">
+        <file name="types_er7.xml" type="types"/>
+        <file name="types_aws.xml" type="types"/>
+		<file name="BBP_types.xml" type="types"/>
+		<file name="types_CMC.xml" type="types"/>
+		<file name="mmg_types_green.xml" type="types"/>
+		<file name="mmg_types_NBC+NVG.xml" type="types"/>
+		<file name="mmg_types_patches.xml" type="types"/>
+		<file name="mmg_types_tan.xml" type="types"/>
+		<file name="tf_types_v1.xml" type="types"/>
+		<file name="xzone_mutants_types.xml" type="types"/>
+		<file name="xzone_mutants_spawnabletypes.xml" type="spawnabletypes"/>
+    </ce>
+</economycore>

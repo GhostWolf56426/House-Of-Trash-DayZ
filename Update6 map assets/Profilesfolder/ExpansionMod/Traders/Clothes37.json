@@ -1,0 +1,30 @@
+{
+    "m_Version": 10,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_Clothes",
+    "MinRequiredReputation": -2147483648,
+    "MaxRequiredReputation": 2147483647,
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories":[
+        "Tops",
+        "Belts",
+        "Pants",
+        "Vests",
+        "Pouches",
+        "Bags",
+        "Glasses",
+        "Gloves",
+        "Headgear",
+        "Masks",
+        "Boots_And_Shoes",
+        "Ghillie",
+        "Toxic_gear",
+        "TacticalFlava_Backpack",
+        "TacticalFlava_Helmet",
+        "TacticalFlava_NVG",
+        "TacticalFlava_Vest"
+    ],
+    "Items": {}
+}
