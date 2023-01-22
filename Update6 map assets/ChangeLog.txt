@@ -1,1 +1,9 @@
 Update 6: Map assets
+
+Added:
+    Namalsk Airfield.Map
+    Namalsk Athena1.Map
+    Namalsk Ice Sheet Prison.Map
+    Namalsk Military Outpost Eat of BKT08.Map
+    Namalsk Sawmill Military Harbour.Map
+    Namalsk TF Bering.map
