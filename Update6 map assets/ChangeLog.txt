@@ -7,3 +7,4 @@ Added:
     Namalsk Military Outpost Eat of BKT08.Map
     Namalsk Sawmill Military Harbour.Map
     Namalsk TF Bering.map
+    Namalsk Ice Airfield.map
