@@ -10,3 +10,4 @@ Added:
     Namalsk Ice Airfield.map
     Namalsk Brensk Military camp.map
     Namalsk Skat12.map
+    Namalsk Ice Rock location.map
