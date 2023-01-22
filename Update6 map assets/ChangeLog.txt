@@ -8,3 +8,4 @@ Added:
     Namalsk Sawmill Military Harbour.Map
     Namalsk TF Bering.map
     Namalsk Ice Airfield.map
+    Namalsk Brensk Military camp.map
