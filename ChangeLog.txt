@@ -1,6 +1,6 @@
 UPDATED HAS BEEN PUSHED TO THE MAIN SERVER
 
-
+Update1: Added TF and Fixed Boats
 - Added Tactical Flava to the loot table and the Market.
 - Fixed Red Lifeboat spawning incorrect items.
 - Fixed boats spawning items that should not be spawned at boats.
