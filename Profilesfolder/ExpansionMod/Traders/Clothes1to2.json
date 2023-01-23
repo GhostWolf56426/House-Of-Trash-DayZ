@@ -1,6 +1,6 @@
 {
     "m_Version": 10,
-    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_Clothes",
+    "DisplayName": "Clothes",
     "MinRequiredReputation": -2147483648,
     "MaxRequiredReputation": 2147483647,
     "TraderIcon": "Shotgun",
@@ -22,10 +22,5 @@
         "Ghillie",
         "Toxic_gear"
     ],
-    "Items": {
-        "PlateCarrierPouches":3,
-        "PlateCarrierPouches_Black":3,
-        "PlateCarrierPouches_Camo":3,
-        "PlateCarrierPouches_Green":3
-    }
+    "Items": {}
 }

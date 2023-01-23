@@ -1,6 +1,6 @@
 {
     "m_Version": 10,
-    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_BASEBUILDING",
+    "DisplayName": "BASEBUILDING",
     "MinRequiredReputation": -2147483648,
     "MaxRequiredReputation": 2147483647,
     "TraderIcon": "Shotgun",

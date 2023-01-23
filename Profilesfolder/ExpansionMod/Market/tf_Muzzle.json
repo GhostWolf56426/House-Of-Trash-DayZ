@@ -1,0 +1,76 @@
+{
+    "m_Version": 12,
+    "DisplayName": "TF Muzzle Devices",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0,
+    "Items": [
+        {
+			"ClassName": "TF_SCAR_Suppressor_Black",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName":"TF_M4_SOCOMSuppressor",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SellPricePercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        },
+        {
+            "ClassName":"TF_PKM_6ch43Compensator",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SellPricePercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        },
+        {
+            "ClassName":"TF_PKM_6ch63Compensator",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SellPricePercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        },
+        {
+            "ClassName":"TF_PKM_6ch76Compensator",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SellPricePercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        },
+        {
+            "ClassName":"TF_PKM_SAICompensator",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SellPricePercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        }
+    ]
+}

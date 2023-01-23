@@ -1,0 +1,58 @@
+{
+    "m_Version": 12,
+    "DisplayName": "TF Grips",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0,
+    "Items": [
+        {
+			"ClassName": "TF_AFG_RIS_Grip_FDE",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TF_AFG_RIS_Grip_Black"
+            ]
+        },
+        {
+            "ClassName":"TF_AFG_MLOCK_Grip_FDE",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SellPricePercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[
+                "TF_AFG_MLOCK_Grip_Black"
+            ]
+        },
+        {
+            "ClassName":"TF_Atlas_Bipod",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SellPricePercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        },
+        {
+            "ClassName":"TF_Harris_Bipod",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SellPricePercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        }
+    ]
+}

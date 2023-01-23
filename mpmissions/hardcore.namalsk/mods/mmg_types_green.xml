@@ -13,8 +13,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier23"/>
+        <tag name="Military"/>
+        <value user="Tier23"/>
     </type>
     <type name="MMG_MK_III_Armor_green">
         <nominal>1</nominal>
@@ -26,8 +26,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier5"/>
+        <tag name="Military"/>
+        <value user="Tier5"/>
     </type>
 	<type name="MMG_chestrig_green">
         <nominal>4</nominal>
@@ -39,8 +39,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier12"/>
+        <tag name="Military"/>
+        <value user="Tier12"/>
         </type>
     <type name="MMG_tt_Vest_green">
         <nominal>3</nominal>
@@ -52,8 +52,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier34"/>
+        <tag name="Military"/>
+        <value user="Tier34"/>
     </type>
     <type name="MMG_MK_V_Armor_green">
         <nominal>1</nominal>
@@ -65,8 +65,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     	<category name="lantia" />
-        <usage name="Military"/>
-        <value name="Tier67"/>
+        <tag name="Military"/>
+        <value user="Tier67"/>
     </type>
 
 <!--POUCHES-->
@@ -81,8 +81,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier234"/>
+        <tag name="Military"/>
+        <value user="Tier234"/>
     </type>
     <type name="MMG_triple_magpouch_green">
         <nominal>2</nominal>
@@ -94,8 +94,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier45"/>
+        <tag name="Military"/>
+        <value user="Tier45"/>
     </type>
     <type name="MMG_double_magpouch_green">
         <nominal>5</nominal>
@@ -107,8 +107,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier234"/>
+        <tag name="Military"/>
+        <value user="Tier234"/>
     </type>
     <type name="MMG_Med_Pouch_Olive">
         <nominal>4</nominal>
@@ -120,8 +120,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier234"/>
+        <tag name="Military"/>
+        <value user="Tier234"/>
     </type>
     <type name="MMG_ammo_pouch_olive">
         <nominal>4</nominal>
@@ -133,8 +133,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier34"/>
+        <tag name="Military"/>
+        <value user="Tier34"/>
      </type>
     <type name="MMG_tactical_pouch_green">
         <nominal>2</nominal>
@@ -146,8 +146,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier4"/>
     </type>
 	 <type name="MMG_holster_pouch_green">
         <nominal>4</nominal>
@@ -159,10 +159,10 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+		<value user="Tier2"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
     <type name="MMG_mk5_utility_pouch_green">
         <nominal>1</nominal>
@@ -174,8 +174,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier5"/>
+        <tag name="Military"/>
+        <value user="Tier5"/>
     </type>
     <type name="MMG_mk_V_grenade_pouch_green">
         <nominal>1</nominal>
@@ -187,8 +187,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier5"/>
+        <tag name="Military"/>
+        <value user="Tier5"/>
     </type>
 	<type name="mmg_dump_pouch_green">
         <nominal>3</nominal>
@@ -200,9 +200,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
 
 <!--Backpacks-->
@@ -217,8 +217,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier34"/>
+        <tag name="Military"/>
+        <value user="Tier34"/>
     </type>
     <type name="MMG_supplybag_green">
         <nominal>1</nominal>
@@ -230,8 +230,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Seaice"/>
-        <value name="Tier4"/>
+        <tag name="Seaice"/>
+        <value user="Tier4"/>
     </type>
     <type name="MMG_assault_pack_olive">
         <nominal>2</nominal>
@@ -243,9 +243,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
     <type name="MMG_camelback_green">
         <nominal>2</nominal>
@@ -257,8 +257,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier4"/>
     </type>
 	<type name="MMG_mmps_bag_green">
         <nominal>1</nominal>
@@ -286,8 +286,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier4"/>
     </type>
 	<type name="mmg_cargobelt_green">
         <nominal>1</nominal>
@@ -299,8 +299,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier5"/>
+        <tag name="Military"/>
+        <value user="Tier5"/>
     </type>
 
 <!--HELMETS-->
@@ -315,9 +315,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
     <type name="MMG_striker_helmet_green">
         <nominal>1</nominal>
@@ -329,8 +329,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier5"/>
+        <tag name="Military"/>
+        <value user="Tier5"/>
     </type>
 	<type name="mmg_armored_helmet_green">
         <nominal>1</nominal>
@@ -342,8 +342,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier4"/>
     </type>
 	<type name="mmg_armored_helmet_visor_green">
         <nominal>1</nominal>
@@ -355,8 +355,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier4"/>
     </type>
     <type name="MMG_headphones_green">
         <nominal>1</nominal>
@@ -368,9 +368,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
 
 <!--ITEMS-->
@@ -385,8 +385,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier234"/>
+        <tag name="Military"/>
+        <value user="Tier234"/>
     </type>
     <type name="MMG_bottle_olive">
         <nominal>1</nominal>
@@ -398,8 +398,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier23"/>
+        <tag name="Military"/>
+        <value user="Tier23"/>
     </type>
     <type name="MMG_Holster_green">
         <nominal>5</nominal>
@@ -411,8 +411,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier234"/>
+        <tag name="Military"/>
+        <value user="Tier234"/>
     </type>
 	<type name="mmg_tac_goggles_red_green">
         <nominal>4</nominal>
@@ -424,9 +424,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
 
 <!--CLOTHING-->
@@ -441,9 +441,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
     <type name="MMG_tactical_shirt_green">
         <nominal>1</nominal>
@@ -455,9 +455,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
     <type name="MMG_combatshirt_green">
         <nominal>1</nominal>
@@ -469,9 +469,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
     <type name="MMG_combatpants_olive">
         <nominal>1</nominal>
@@ -483,9 +483,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
 	 <type name="mmg_tactical_pants_green">
         <nominal>1</nominal>
@@ -497,9 +497,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
     <type name="mmg_tactical_gloves_green">
         <nominal>1</nominal>
@@ -511,9 +511,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
     <type name="MMG_boots_green">
         <nominal>1</nominal>
@@ -525,9 +525,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
     <type name="MMG_facemask_green">
         <nominal>1</nominal>
@@ -539,9 +539,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
     <type name="MMG_balaclava_olive">
         <nominal>1</nominal>
@@ -553,9 +553,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
 	<type name="mmg_boonie_green">
         <nominal>1</nominal>
@@ -567,10 +567,10 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+		<value user="Tier2"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
 </types>
 

@@ -11,7 +11,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_GP5GasMask_Brown">
@@ -24,7 +24,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_GP5GasMask_Olive">
@@ -37,7 +37,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_GasMask_Black">
@@ -50,7 +50,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_GasMask_Brown">
@@ -63,7 +63,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_GasMask_Olive">
@@ -76,7 +76,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<!-- Tiger -->	
@@ -91,8 +91,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <tag name="Town"/>
+        <tag name="Village"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_Beanie_Tiger">
@@ -105,9 +105,9 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-		<usage name="Military"/>
+        <tag name="Town"/>
+        <tag name="Village"/>
+		<tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_TacticalHelmet_Tiger">
@@ -120,9 +120,9 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
 	<type name="MilitaryGear_FieldJacket_Tiger">
         <nominal>1</nominal>
@@ -134,9 +134,9 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
 	<type name="MilitaryGear_PatrolJacket_Tiger">
         <nominal>1</nominal>
@@ -148,7 +148,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_TacticalShirt_Tiger">
@@ -161,7 +161,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_FieldPants_Tiger">
@@ -174,7 +174,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_PatrolPants_Tiger">
@@ -187,7 +187,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_TacticalPants_Tiger">
@@ -200,7 +200,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_HighCapVest_Tiger">
@@ -213,8 +213,8 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier4"/>
     </type>
 	<type name="MilitaryGear_AssaultVest_Tiger">
         <nominal>0</nominal>
@@ -226,7 +226,7 @@
         <cost>50</cost>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_AliceBag_Tiger">
@@ -239,7 +239,7 @@
         <cost>50</cost>
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_AssaultBag_Tiger">
@@ -252,7 +252,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_CoyoteBag_Tiger">
@@ -265,7 +265,7 @@
         <cost>50</cost>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_HuntingBag_Tiger">
@@ -278,8 +278,8 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
-        <usage name="Hunting"/>
-		<usage name="Military"/>
+        <tag name="Hunting"/>
+		<tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_MountainBag_Tiger">
@@ -292,7 +292,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_TortillaBag_Tiger">
@@ -305,7 +305,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_Balaclava3_Tiger">
@@ -319,7 +319,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_Balaclava3Skull_Tiger">
@@ -333,7 +333,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_Bandana_Tiger">
@@ -346,7 +346,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_PlateCarrier_Tiger">
@@ -359,9 +359,9 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+		<value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershVest_Tiger">
         <nominal>1</nominal>
@@ -373,9 +373,9 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-		<value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier3"/>
+		<value user="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershBag_Tiger">
         <nominal>1</nominal>
@@ -387,7 +387,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="containers"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_CombatJacket_Tiger">
@@ -400,7 +400,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_LargeTent_Tiger">
@@ -413,7 +413,7 @@
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_CarTent_Tiger">
@@ -426,7 +426,7 @@
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
     <!-- SKOL -->
@@ -441,8 +441,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <tag name="Town"/>
+        <tag name="Village"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_Beanie_Skol">
@@ -455,9 +455,9 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-		<usage name="Military"/>
+        <tag name="Town"/>
+        <tag name="Village"/>
+		<tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_TacticalHelmet_Skol">
@@ -470,9 +470,9 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
 	<type name="MilitaryGear_FieldJacket_Skol">
         <nominal>1</nominal>
@@ -484,9 +484,9 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
 	<type name="MilitaryGear_PatrolJacket_Skol">
         <nominal>1</nominal>
@@ -498,7 +498,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_TacticalShirt_Skol">
@@ -511,7 +511,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_FieldPants_Skol">
@@ -524,7 +524,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_PatrolPants_Skol">
@@ -537,7 +537,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_TacticalPants_Skol">
@@ -550,7 +550,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_HighCapVest_Skol">
@@ -563,8 +563,8 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier4"/>
     </type>
 	<type name="MilitaryGear_AssaultVest_Skol">
         <nominal>0</nominal>
@@ -576,7 +576,7 @@
         <cost>50</cost>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_AliceBag_Skol">
@@ -589,7 +589,7 @@
         <cost>50</cost>
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_AssaultBag_Skol">
@@ -602,7 +602,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_CoyoteBag_Skol">
@@ -615,7 +615,7 @@
         <cost>50</cost>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_HuntingBag_Skol">
@@ -628,8 +628,8 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
-        <usage name="Hunting"/>
-		<usage name="Military"/>
+        <tag name="Hunting"/>
+		<tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_MountainBag_Skol">
@@ -642,7 +642,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_TortillaBag_Skol">
@@ -655,7 +655,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_Balaclava3_Skol">
@@ -669,7 +669,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_Balaclava3Skull_Skol">
@@ -683,7 +683,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_Bandana_Skol">
@@ -696,7 +696,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_PlateCarrier_Skol">
@@ -709,9 +709,9 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+		<value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershVest_Skol">
         <nominal>1</nominal>
@@ -723,9 +723,9 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-		<value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier3"/>
+		<value user="Tier4"/>
     </type>
 	<type name="MilitaryGear_SmershBag_Skol">
         <nominal>1</nominal>
@@ -737,7 +737,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="containers"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_CombatJacket_Skol">
@@ -750,7 +750,7 @@
         <cost>50</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_LargeTent_Skol">
@@ -763,7 +763,7 @@
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 	<type name="MilitaryGear_CarTent_Skol">
@@ -776,7 +776,7 @@
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
         <value user="Tier234" />
     </type>
 </types>

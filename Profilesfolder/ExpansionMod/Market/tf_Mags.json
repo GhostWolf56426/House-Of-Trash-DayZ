@@ -1,0 +1,142 @@
+{
+    "m_Version": 12,
+    "DisplayName": "TF Mags",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0,
+    "Items": [
+        {
+			"ClassName": "TF_Mag_OTs_14_Groza_20Rnd",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent":  -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName":"TF_Mag_SCAR_H_20Rnd_FDE",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SellPricePercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        },
+        {
+            "ClassName":"TF_Mag_SCAR_H_Drum50Rnd",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SellPricePercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        },
+        {
+            "ClassName":"TF_Mag_FAL_Drum50Rnd_Black",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SellPricePercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        },
+        {
+            "ClassName":"TF_Mag_Anzio20_3Rnd",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SellPricePercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        },
+        {
+            "ClassName":"TF_Mag_FiveSeven_20Rnd",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SellPricePercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        },
+        {
+            "ClassName":"TF_Mag_MP443_18Rnd",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SellPricePercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        },
+        {
+            "ClassName":"TF_Mag_M240_50Rnd",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SellPricePercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        },
+        {
+            "ClassName":"TF_Mag_M249_200Rnd",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SellPricePercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        },
+        {
+            "ClassName":"TF_Mag_PKM_100Rnd",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SellPricePercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        },
+        {
+            "ClassName":"TF_Mag_SVCh308_10Rnd",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SellPricePercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        },
+        {
+            "ClassName":"TF_Mag_SR25_20Rnd",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SellPricePercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        }
+    ]
+}

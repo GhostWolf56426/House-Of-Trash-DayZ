@@ -13,22 +13,13 @@
         "Muzzles",
         "Optics",
         "Handgaurds",
-        "AWS"
+        "AWS",
+        "tf_Bttstck",
+        "tf_Grip",
+        "tf_Hndgrd",
+        "tf_Mags",
+        "tf_Muzzle",
+        "tf_PistolGrip"
     ],
-    "Items": {
-        "mag_ij70_8rnd":3,
-        "mag_p1_8rnd":3,
-        "mag_cz61_20rnd":3,
-        "mag_pp19_64rnd":3,
-        "mag_ruger1022_15rnd":3,
-        "mag_ruger1022_30rnd":3,
-        "mag_akm_drum75rnd":2,
-        "mag_cz527_5rnd":3,
-        "mag_stanag_60rnd":2,
-        "mag_cmag_40rnd":2,
-        "mag_ak74_45rnd":2,
-        "m4_suppressor":2,
-        "ak_suppressor":2,
-        "AD_Pilad":3
-    }
+    "Items": {}
 }

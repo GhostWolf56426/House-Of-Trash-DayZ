@@ -1,0 +1,157 @@
+{
+    "m_Version": 12,
+    "DisplayName": " TF Buttstocks",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0,
+    "Items": [
+        {
+            "ClassName": "TF_SCAR_Mk20Bttstck_FDE",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TF_SCAR_Mk20Bttstck_Black"
+            ]
+        },
+        {
+            "ClassName": "TF_SCAR_VadapterBttStck",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        },
+        {
+            "ClassName": "TF_AN94_AdapterBttstck",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        },
+        {
+            "ClassName":"TF_AK_MVRIBttstck",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "SellPricePercent":-1,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        },
+        {
+            "ClassName":"TF_AK_Zenit_PT1Bttstck",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "SellPricePercent":-1,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        },
+        {
+            "ClassName":"TF_AN94_PlasticBttstck",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "SellPricePercent":-1,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        },
+        {
+            "ClassName":"TF_M4_CMMG_RIPBttstck",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "SellPricePercent":-1,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        },
+        {
+            "ClassName":"TF_M4CraneBttstck",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "SellPricePercent":-1,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        },
+        {
+            "ClassName":"TF_M4_B5PrecisionBttstck",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SellPricePercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        },
+        {
+            "ClassName":"TF_M4_FABDGLCoreBttstck",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SellPricePercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        },
+        {
+            "ClassName":"TF_M4_MagpulPRSGen3Bttstck_Black",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SellPricePercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[
+                "TF_M4_MagpulPRSGen3Bttstck_Grey"
+            ]
+        },
+        {
+            "ClassName":"TF_PKM_CNCC39Bttstck",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SellPricePercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        },
+        {
+            "ClassName":"TF_PKM_ZenitPT2Bttstck",
+            "MaxPriceThreshold":500,
+            "MinPriceThreshold":500,
+            "MaxStockThreshold":100,
+            "MinStockThreshold":1,
+            "QuantityPercent":-1,
+            "SellPricePercent":-1,
+            "SpawnAttachments":[],
+            "Variants":[]
+        }
+    ]
+}

@@ -1,6 +1,6 @@
 {
     "m_Version": 10,
-    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_MEDICALS",
+    "DisplayName": "MEDICALS",
     "MinRequiredReputation": -2147483648,
     "MaxRequiredReputation": 2147483647,
     "TraderIcon": "Medic Box",
@@ -11,9 +11,5 @@
         "Medical"
     ],
     "Items": {
-        "anticheminjector":2,
-        "dzn_vega7_enzyme":2,
-        "dzn_oxygenated_blood":2,
-        "dzn_Firstaidkit":2
     }
 }

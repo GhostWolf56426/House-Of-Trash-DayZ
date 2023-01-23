@@ -1,6 +1,6 @@
 {
     "m_Version": 10,
-    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_Clothes",
+    "DisplayName": "Clothes",
     "MinRequiredReputation": -2147483648,
     "MaxRequiredReputation": 2147483647,
     "TraderIcon": "Shotgun",
@@ -22,9 +22,5 @@
         "Ghillie",
         "Toxic_gear"
     ],
-    "Items": {
-        "ChildBag_Red":3,
-        "ChildBag_Green":3,
-        "ChildBag_Blue":3
-    }
+    "Items": {}
 }

@@ -29,8 +29,9 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="BBP_types.xml" type="types"/>
 		<file name="types_CMC.xml" type="types"/>
 		<file name="mmg_types_green.xml" type="types"/>
-		<file name="mmg_types_NBC+NVG" type="types"/>
-		<file name="mmg_types_patches" type="types"/>
-		<file name="mmg_types_tan" type="types"/>
+		<file name="mmg_types_NBC+NVG.xml" type="types"/>
+		<file name="mmg_types_patches.xml" type="types"/>
+		<file name="mmg_types_tan.xml" type="types"/>
+		<file name="tf_types.xml" type="types"/>
     </ce>
 </economycore>

@@ -12,9 +12,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
 
 <!--GP-NVG-->
@@ -28,10 +28,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <tag name="Hunting"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
     <type name="mmg_gp_nvg_tan">
         <nominal>0</nominal>
@@ -42,10 +42,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="Military"/>
+        <tag name="Hunting"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
     <type name="mmg_gp_nvg_green">
         <nominal>1</nominal>
@@ -56,9 +56,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
     	<category name="lantia" />
-        <value name="Tier67"/>
+        <value user="Tier67"/>
     </type>
     <type name="mmg_gp_nvg_grey">
         <nominal>1</nominal>
@@ -69,8 +69,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
+        <tag name="Military"/>
     	<category name="lantia" />
-        <value name="Tier67"/>
+        <value user="Tier67"/>
     </type>
 </types>

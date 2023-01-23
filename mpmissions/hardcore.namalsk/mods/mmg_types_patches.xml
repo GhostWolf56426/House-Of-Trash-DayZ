@@ -13,8 +13,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
      </type>
 	<type name="MMG_patch_rubber_111">
         <nominal>2</nominal>
@@ -26,8 +26,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_medic">
         <nominal>2</nominal>
@@ -39,8 +39,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_toxic">
         <nominal>2</nominal>
@@ -52,8 +52,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_bushcraft">
         <nominal>2</nominal>
@@ -65,8 +65,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_bushcraft1">
         <nominal>2</nominal>
@@ -78,8 +78,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_police">
         <nominal>2</nominal>
@@ -91,8 +91,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_punisher">
         <nominal>2</nominal>
@@ -104,8 +104,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_rangers">
         <nominal>2</nominal>
@@ -117,8 +117,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_eod">
         <nominal>2</nominal>
@@ -130,8 +130,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_mmg">
         <nominal>2</nominal>
@@ -143,8 +143,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_sniper1">
         <nominal>2</nominal>
@@ -156,8 +156,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_cherno_special">
         <nominal>2</nominal>
@@ -169,8 +169,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_livonia_special">
         <nominal>2</nominal>
@@ -182,8 +182,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_namalsk">
         <nominal>2</nominal>
@@ -195,8 +195,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_australia">
         <nominal>2</nominal>
@@ -208,8 +208,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_austria">
         <nominal>2</nominal>
@@ -221,8 +221,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_austria1">
         <nominal>2</nominal>
@@ -234,8 +234,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_germany">
         <nominal>2</nominal>
@@ -247,8 +247,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_sweden">
         <nominal>2</nominal>
@@ -260,8 +260,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_norway">
         <nominal>2</nominal>
@@ -273,8 +273,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_ukraine">
         <nominal>2</nominal>
@@ -286,8 +286,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_bulgaria">
         <nominal>2</nominal>
@@ -299,8 +299,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_switzerland">
         <nominal>2</nominal>
@@ -312,8 +312,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_czech_republic">
         <nominal>2</nominal>
@@ -325,8 +325,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_denmark">
         <nominal>2</nominal>
@@ -338,8 +338,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_england">
         <nominal>2</nominal>
@@ -351,8 +351,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_finland">
         <nominal>2</nominal>
@@ -364,8 +364,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_france">
         <nominal>2</nominal>
@@ -377,8 +377,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_greece">
         <nominal>2</nominal>
@@ -390,8 +390,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_netherlands">
         <nominal>2</nominal>
@@ -403,8 +403,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="EXAMPLE">
         <nominal>2</nominal>
@@ -416,8 +416,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_poland">
         <nominal>2</nominal>
@@ -429,8 +429,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_south_africa">
         <nominal>2</nominal>
@@ -442,8 +442,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_slovakia">
         <nominal>2</nominal>
@@ -455,8 +455,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_uk">
         <nominal>2</nominal>
@@ -468,8 +468,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_usa">
         <nominal>2</nominal>
@@ -481,8 +481,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_bra">
         <nominal>2</nominal>
@@ -494,8 +494,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_can">
         <nominal>2</nominal>
@@ -507,8 +507,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_chl">
         <nominal>2</nominal>
@@ -520,8 +520,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_cro">
         <nominal>2</nominal>
@@ -533,8 +533,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_irl">
         <nominal>2</nominal>
@@ -546,8 +546,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_nzl">
         <nominal>2</nominal>
@@ -559,8 +559,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_rou">
         <nominal>2</nominal>
@@ -572,8 +572,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_tur">
         <nominal>2</nominal>
@@ -585,8 +585,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_mex">
         <nominal>2</nominal>
@@ -598,8 +598,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_por">
         <nominal>2</nominal>
@@ -611,8 +611,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_wales">
         <nominal>2</nominal>
@@ -624,8 +624,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_deerisle_special">
         <nominal>2</nominal>
@@ -637,8 +637,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_ocean">
         <nominal>2</nominal>
@@ -650,8 +650,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_lithuania">
         <nominal>2</nominal>
@@ -663,8 +663,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_scotland">
         <nominal>2</nominal>
@@ -676,8 +676,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_apos">
         <nominal>2</nominal>
@@ -689,8 +689,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_bpos">
         <nominal>2</nominal>
@@ -702,8 +702,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_abpos">
         <nominal>2</nominal>
@@ -715,8 +715,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_0pos">
         <nominal>2</nominal>
@@ -728,8 +728,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_aneg">
         <nominal>2</nominal>
@@ -741,8 +741,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_bneg">
         <nominal>2</nominal>
@@ -754,8 +754,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_abneg">
         <nominal>2</nominal>
@@ -767,8 +767,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_rubber_0neg">
         <nominal>2</nominal>
@@ -780,8 +780,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	
 	<!--PATCHES FABRIC-->
@@ -795,8 +795,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_fabric_111">
         <nominal>2</nominal>
@@ -808,8 +808,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_fabric_driver">
         <nominal>2</nominal>
@@ -821,8 +821,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_fabric_medic">
         <nominal>2</nominal>
@@ -834,8 +834,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_fabric_pilot">
         <nominal>2</nominal>
@@ -847,8 +847,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 	<type name="MMG_patch_fabric_toxic">
         <nominal>2</nominal>
@@ -860,7 +860,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-		<value name="Tier123"/>
+        <tag name="Military"/>
+		<value user="Tier123"/>
     </type>
 </types>
