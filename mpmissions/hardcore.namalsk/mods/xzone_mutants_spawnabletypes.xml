@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+  <type name="Mutant_XZ_Boar1">
+    <cargo preset="boarloot" />
+  </type>
+  <type name="Mutant_XZ_Boar2">
+    <cargo preset="boarloot" />
+  </type>
+  <type name="Mutant_XZ_Burer1">
+    <cargo preset="burerloot" />
+  </type>
+  <type name="Mutant_XZ_Burer2">
+    <cargo preset="burerloot" />
+  </type>
+  <type name="Mutant_XZ_Cat_Bayn1">
+    <cargo preset="catloot" />
+  </type>
+  <type name="Mutant_XZ_Cat_Bayn2">
+    <cargo preset="catloot" />
+  </type>
+  <type name="Mutant_XZ_Cat_Bayn3">
+    <cargo preset="catloot" />
+  </type>
+  <type name="Mutant_XZ_Himera1">
+    <cargo preset="himeraloot" />
+  </type>
+  <type name="Mutant_XZ_Himera2">
+    <cargo preset="himeraloot" />
+  </type>
+  <type name="Mutant_XZ_Himera3">
+    <cargo preset="himeraloot" />
+  </type>
+  <type name="Mutant_XZ_Dog_Red">
+    <cargo preset="dogloot" />
+  </type>
+  <type name="Mutant_XZ_Dog_White">
+    <cargo preset="dogloot" />
+  </type>
+  <type name="Mutant_XZ_Dog_Fur">
+    <cargo preset="dogloot" />
+  </type>
+  <type name="Mutant_XZ_Dog_Brown">
+    <cargo preset="dogloot" />
+  </type>
+  <type name="Mutant_XZ_Fresh1">
+    <cargo preset="freshloot" />
+  </type>
+  <type name="Mutant_XZ_Fresh2">
+    <cargo preset="freshloot" />
+  </type>
+  <type name="Mutant_XZ_Fresh3">
+    <cargo preset="freshloot" />
+  </type>
+  <type name="Mutant_XZ_Izlom1">
+    <cargo preset="izlomloot" />
+  </type>
+  <type name="Mutant_XZ_Izlom2">
+    <cargo preset="izlomloot" />
+  </type>
+  <type name="Mutant_XZ_Izlom3">
+    <cargo preset="izlomloot" />
+  </type>
+  <type name="Mutant_XZ_Krovosos1">
+    <cargo preset="krovososloot" />
+  </type>
+  <type name="Mutant_XZ_Krovosos2">
+    <cargo preset="krovososloot" />
+  </type>
+  <type name="Mutant_XZ_Krovosos3">
+    <cargo preset="krovososloot" />
+  </type>
+  <type name="Mutant_XZ_Pse_Dog1">
+    <cargo preset="pdogloot" />
+  </type>
+  <type name="Mutant_XZ_Pse_Dog2">
+    <cargo preset="pdogloot" />
+  </type>
+  <type name="Mutant_XZ_PGigant">
+    <cargo preset="pigantloot" />
+  </type>
+  <type name="Mutant_XZ_Poltergeist">
+    <cargo preset="poltergeistloot" />
+  </type>
+  <type name="Mutant_XZ_Snork1">
+    <cargo preset="snorkloot" />
+  </type>
+  <type name="Mutant_XZ_Snork2">
+    <cargo preset="snorkloot" />
+  </type>
+  <type name="Mutant_XZ_Tushkano1">
+    <cargo preset="tushkanoloot" />
+  </type>
+  <type name="Mutant_XZ_Tushkano2">
+    <cargo preset="tushkanoloot" />
+  </type>
+  <type name="Mutant_XZ_Tushkano3">
+    <cargo preset="tushkanoloot" />
+  </type>
+  <type name="Mutant_XZ_Civ_Trup1">
+    <cargo preset="xzzombloot" />
+  </type>
+  <type name="Mutant_XZ_Civ_Trup2">
+    <cargo preset="xzzombloot" />
+  </type>
+  <type name="Mutant_XZ_Civ_Trup3">
+    <cargo preset="xzzombloot" />
+  </type>
+  <type name="Mutant_XZ_Civ_Trup4">
+    <cargo preset="xzzombloot" />
+  </type>
+  <type name="Mutant_XZ_Civ_Trup5">
+    <cargo preset="xzzombloot" />
+  </type>
+  <type name="Mutant_XZ_Novice1">
+    <cargo preset="xzzombloot" />
+  </type>
+  <type name="Mutant_XZ_Novice2">
+    <cargo preset="xzzombloot" />
+  </type>
+  <type name="Mutant_XZ_Novice3">
+    <cargo preset="xzzombloot" />
+  </type>
+  <type name="Mutant_XZ_Novice4">
+    <cargo preset="xzzombloot" />
+  </type>
+  <type name="Mutant_XZ_Novice5">
+    <cargo preset="xzzombloot" />
+  </type>
+  <type name="Mutant_XZ_Novice6">
+    <cargo preset="xzzombloot" />
+  </type>
+  <type name="Mutant_XZ_Novice7">
+    <cargo preset="xzzombloot" />
+  </type>
+  <type name="Mutant_XZ_Loner_Zorya">
+    <cargo preset="xzzombloot" />
+  </type>
+  <type name="Mutant_XZ_Duty_Zorya">
+    <cargo preset="xzzombloot" />
+  </type>
+  <type name="Mutant_XZ_Freedom_Zorya">
+    <cargo preset="xzzombloot" />
+  </type>
+  <type name="Mutant_XZ_Monolith_Zorya">
+    <cargo preset="xzzombloot" />
+  </type>
+</spawnabletypes>

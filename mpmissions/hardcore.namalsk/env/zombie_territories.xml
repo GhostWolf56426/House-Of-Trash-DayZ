@@ -127,5 +127,63 @@
         <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="8" x="4287.5" z="6345" r="75"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="8" x="2837.5" z="6302.5" r="75"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="8" x="4177.5" z="8885.71" r="75"/>
+        <!-- XZone STALKER Mutants -->
+        <zone name="InfectedBoar" smin="0" smax="0" dmin="1" dmax="1" x="5184" z="7635" r="50"/>
+        <zone name="InfectedBoar" smin="0" smax="0" dmin="1" dmax="1" x="4708" z="6250" r="50"/>
+        <zone name="InfectedBoar" smin="0" smax="0" dmin="1" dmax="1" x="5315" z="7300" r="50"/>
+        <zone name="InfectedBurer" smin="0" smax="0" dmin="1" dmax="1" x="6682" z="7228" r="50"/>
+        <zone name="InfectedBurer" smin="0" smax="0" dmin="1" dmax="1" x="7648" z="8747" r="50"/>
+        <zone name="InfectedBurer" smin="0" smax="0" dmin="1" dmax="1" x="10385" z="11377" r="50"/>
+        <zone name="InfectedCatBayn" smin="0" smax="0" dmin="1" dmax="1" x="3650" z="8700" r="50"/>
+        <zone name="InfectedCatBayn" smin="0" smax="0" dmin="1" dmax="1" x="6570" z="6784" r="50"/>
+        <zone name="InfectedCatBayn" smin="0" smax="0" dmin="1" dmax="1" x="9590" z="10285" r="50"/>
+        <zone name="InfectedHimera" smin="0" smax="0" dmin="1" dmax="1" x="4012" z="9242" r="50"/>
+        <zone name="InfectedHimera" smin="0" smax="0" dmin="1" dmax="1" x="4428" z="5937" r="50"/>
+        <zone name="InfectedHimera" smin="0" smax="0" dmin="1" dmax="1" x="6719" z="7178" r="50"/>
+        <zone name="InfectedDog" smin="0" smax="0" dmin="1" dmax="1" x="4489" z="5433" r="50"/>
+        <zone name="InfectedDog" smin="0" smax="0" dmin="1" dmax="1" x="10882" z="11321" r="50"/>
+        <zone name="InfectedDog" smin="0" smax="0" dmin="1" dmax="1" x="11585" z="11759" r="50"/>
+        <zone name="InfectedFresh" smin="0" smax="0" dmin="1" dmax="1" x="4189" z="6229" r="50"/>
+        <zone name="InfectedFresh" smin="0" smax="0" dmin="1" dmax="1" x="10083" z="10508" r="50"/>
+        <zone name="InfectedFresh" smin="0" smax="0" dmin="1" dmax="1" x="5893" z="10230" r="50"/>
+        <zone name="InfectedIzlom" smin="0" smax="0" dmin="1" dmax="1" x="3589" z="8885" r="50"/>
+        <zone name="InfectedIzlom" smin="0" smax="0" dmin="1" dmax="1" x="3407" z="6527" r="50"/>
+        <zone name="InfectedIzlom" smin="0" smax="0" dmin="1" dmax="1" x="7591" z="11148" r="50"/>
+        <zone name="InfectedKrovosos" smin="0" smax="0" dmin="1" dmax="1" x="6845" z="9656" r="50"/>
+        <zone name="InfectedKrovosos" smin="0" smax="0" dmin="1" dmax="1" x="7809" z="9015" r="50"/>
+        <zone name="InfectedKrovosos" smin="0" smax="0" dmin="1" dmax="1" x="5365" z="8148" r="50"/>
+        <zone name="InfectedPseDog" smin="0" smax="0" dmin="1" dmax="1" x="7991" z="7430" r="50"/>final
+        <zone name="InfectedPseDog" smin="0" smax="0" dmin="1" dmax="1" x="5783" z="9602" r="50"/>
+        <zone name="InfectedPseDog" smin="0" smax="0" dmin="1" dmax="1" x="6772" z="11125" r="50"/>
+        <zone name="InfectedPGigant" smin="0" smax="0" dmin="1" dmax="1" x="5116" z="11295" r="50"/>
+        <zone name="InfectedPGigant" smin="0" smax="0" dmin="1" dmax="1" x="5295" z="6850" r="50"/>
+        <zone name="InfectedPGigant" smin="0" smax="0" dmin="1" dmax="1" x="6908" z="11728" r="50"/>
+        <zone name="InfectedPoltergeist" smin="0" smax="0" dmin="1" dmax="1" x="5491" z="6024" r="50"/>
+        <zone name="InfectedPoltergeist" smin="0" smax="0" dmin="1" dmax="1" x="4207" z="8580" r="50"/>
+        <zone name="InfectedPoltergeist" smin="0" smax="0" dmin="1" dmax="1" x="6761" z="11349" r="50"/>
+        <zone name="InfectedSnork" smin="0" smax="0" dmin="1" dmax="1" x="4541" z="6215" r="50"/>
+        <zone name="InfectedSnork" smin="0" smax="0" dmin="1" dmax="1" x="5743" z="6766" r="50"/>
+        <zone name="InfectedSnork" smin="0" smax="0" dmin="1" dmax="1" x="7348" z="11670" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="1" dmax="1" x="2515" z="6193" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="1" dmax="1" x="7969" z="10052" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="1" dmax="1" x="6425" z="9611" r="50"/>
+        <zone name="InfectedCivTrup" smin="0" smax="0" dmin="1" dmax="1" x="3776" z="8244" r="50"/>
+        <zone name="InfectedCivTrup" smin="0" smax="0" dmin="1" dmax="1" x="8828" z="10209" r="50"/>
+        <zone name="InfectedCivTrup" smin="0" smax="0" dmin="1" dmax="1" x="5342" z="6942" r="50"/>
+        <zone name="InfectedNovice" smin="0" smax="0" dmin="1" dmax="1" x="5329" z="8757" r="50"/>
+        <zone name="InfectedNovice" smin="0" smax="0" dmin="1" dmax="1" x="5644" z="6786" r="50"/>
+        <zone name="InfectedNovice" smin="0" smax="0" dmin="1" dmax="1" x="8020" z="8199" r="50"/>
+        <zone name="InfectedLoner" smin="0" smax="0" dmin="1" dmax="1" x="7659" z="9067" r="50"/>
+        <zone name="InfectedLoner" smin="0" smax="0" dmin="1" dmax="1" x="5508" z="8724" r="50"/>
+        <zone name="InfectedLoner" smin="0" smax="0" dmin="1" dmax="1" x="8921" z="10511" r="50"/>
+        <zone name="InfectedDuty" smin="0" smax="0" dmin="1" dmax="1" x="5155" z="8034" r="50"/>
+        <zone name="InfectedDuty" smin="0" smax="0" dmin="1" dmax="1" x="3919" z="8179" r="50"/>
+        <zone name="InfectedDuty" smin="0" smax="0" dmin="1" dmax="1" x="5854" z="5590" r="50"/>
+        <zone name="InfectedFreedom" smin="0" smax="0" dmin="1" dmax="1" x="7133" z="6508" r="50"/>
+        <zone name="InfectedFreedom" smin="0" smax="0" dmin="1" dmax="1" x="6278" z="8562" r="50"/>
+        <zone name="InfectedFreedom" smin="0" smax="0" dmin="1" dmax="1" x="8163" z="10003" r="50"/>
+        <zone name="InfectedMonolith" smin="0" smax="0" dmin="1" dmax="1" x="5121" z="9511" r="50"/>
+        <zone name="InfectedMonolith" smin="0" smax="0" dmin="1" dmax="1" x="6740" z="6837" r="50"/>
+        <zone name="InfectedMonolith" smin="0" smax="0" dmin="1" dmax="1" x="8805" z="10086" r="50"/>
     </territory>
 </territory-type>
