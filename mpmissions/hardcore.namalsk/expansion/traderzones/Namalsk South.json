@@ -1,0 +1,13 @@
+{
+    "m_Version": 6,
+    "m_DisplayName": " Seraja Bay Trading Zone",
+    "Position": [
+        2348.1298828125,
+        12.313813209533692,
+        5704.111328125
+    ],
+    "Radius": 75.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": -1.0,
+    "Stock": {}
+}
