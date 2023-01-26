@@ -156,7 +156,7 @@
         <zone name="InfectedPGigant" smin="0" smax="0" dmin="0" dmax="0" x="5116" z="11295" r="50"/>
         <zone name="InfectedPGigant" smin="0" smax="0" dmin="0" dmax="0" x="5295" z="6850" r="50"/>
         <zone name="InfectedPGigant" smin="0" smax="0" dmin="0" dmax="0" x="6908" z="11728" r="50"/> -->
-    <!-- Snork: Norinsk
+    <!-- Snork -->
         <zone name="InfectedSnork" smin="0" smax="0" dmin="0" dmax="0" x="3823.44" z="7423.44" r="50"/>
         <zone name="InfectedSnork" smin="0" smax="0" dmin="0" dmax="0" x="3860.94" z="7471.88" r="50"/>
         <zone name="InfectedSnork" smin="0" smax="0" dmin="0" dmax="0" x="3887.50" z="7497.66" r="50"/>
@@ -168,7 +168,6 @@
         <zone name="InfectedSnork" smin="0" smax="0" dmin="0" dmax="0" x="3992.19" z="7575.00" r="50"/>
         <zone name="InfectedSnork" smin="0" smax="0" dmin="0" dmax="0" x="3985.16" z="7627.34" r="50"/>
         <zone name="InfectedSnork" smin="0" smax="0" dmin="0" dmax="0" x="4012.50" z="7610.16" r="50"/>
-    -->
         <!-- <zone name="InfectedCivTrup" smin="0" smax="0" dmin="0" dmax="0" x="3776" z="8244" r="50"/>
         <zone name="InfectedCivTrup" smin="0" smax="0" dmin="0" dmax="0" x="8828" z="10209" r="50"/>
         <zone name="InfectedCivTrup" smin="0" smax="0" dmin="0" dmax="0" x="5342" z="6942" r="50"/>
