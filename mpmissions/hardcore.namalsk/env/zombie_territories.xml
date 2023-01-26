@@ -143,11 +143,10 @@
         <zone name="InfectedFresh" smin="0" smax="0" dmin="0" dmax="0" x="4189" z="6229" r="50"/>random
         <zone name="InfectedFresh" smin="0" smax="0" dmin="0" dmax="0" x="10083" z="10508" r="50"/>random
         <zone name="InfectedFresh" smin="0" smax="0" dmin="0" dmax="0" x="5893" z="10230" r="50"/>random -->
-    <!-- Izlom: BK-L16
+    <!-- Izlom -->
         <zone name="InfectedIzlom" smin="0" smax="0" dmin="1" dmax="1" x="5969.53" z="6662.11" r="50"/>
         <zone name="InfectedIzlom" smin="0" smax="0" dmin="1" dmax="1" x="6019.53" z="6629.69" r="50"/>
         <zone name="InfectedIzlom" smin="0" smax="0" dmin="1" dmax="1" x="5996.48" z="6592.58" r="50"/>
-    -->
         <!-- <zone name="InfectedKrovosos" smin="0" smax="0" dmin="0" dmax="0" x="6845" z="9656" r="50"/>
         <zone name="InfectedKrovosos" smin="0" smax="0" dmin="0" dmax="0" x="7809" z="9015" r="50"/>
         <zone name="InfectedKrovosos" smin="0" smax="0" dmin="0" dmax="0" x="5365" z="8148" r="50"/>
