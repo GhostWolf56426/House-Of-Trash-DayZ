@@ -128,62 +128,140 @@
         <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="8" x="2837.5" z="6302.5" r="75"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="8" x="4177.5" z="8885.71" r="75"/>
         <!-- XZone STALKER Mutants -->
-        <zone name="InfectedBoar" smin="0" smax="0" dmin="1" dmax="1" x="5184" z="7635" r="50"/>
-        <zone name="InfectedBoar" smin="0" smax="0" dmin="1" dmax="1" x="4708" z="6250" r="50"/>
-        <zone name="InfectedBoar" smin="0" smax="0" dmin="1" dmax="1" x="5315" z="7300" r="50"/>
-        <zone name="InfectedBurer" smin="0" smax="0" dmin="1" dmax="1" x="6682" z="7228" r="50"/>
-        <zone name="InfectedBurer" smin="0" smax="0" dmin="1" dmax="1" x="7648" z="8747" r="50"/>
-        <zone name="InfectedBurer" smin="0" smax="0" dmin="1" dmax="1" x="10385" z="11377" r="50"/>
-        <zone name="InfectedCatBayn" smin="0" smax="0" dmin="1" dmax="1" x="3650" z="8700" r="50"/>
-        <zone name="InfectedCatBayn" smin="0" smax="0" dmin="1" dmax="1" x="6570" z="6784" r="50"/>
-        <zone name="InfectedCatBayn" smin="0" smax="0" dmin="1" dmax="1" x="9590" z="10285" r="50"/>
-        <zone name="InfectedHimera" smin="0" smax="0" dmin="1" dmax="1" x="4012" z="9242" r="50"/>
-        <zone name="InfectedHimera" smin="0" smax="0" dmin="1" dmax="1" x="4428" z="5937" r="50"/>
-        <zone name="InfectedHimera" smin="0" smax="0" dmin="1" dmax="1" x="6719" z="7178" r="50"/>
-        <zone name="InfectedDog" smin="0" smax="0" dmin="1" dmax="1" x="4489" z="5433" r="50"/>
-        <zone name="InfectedDog" smin="0" smax="0" dmin="1" dmax="1" x="10882" z="11321" r="50"/>
-        <zone name="InfectedDog" smin="0" smax="0" dmin="1" dmax="1" x="11585" z="11759" r="50"/>
-        <zone name="InfectedFresh" smin="0" smax="0" dmin="1" dmax="1" x="4189" z="6229" r="50"/>
-        <zone name="InfectedFresh" smin="0" smax="0" dmin="1" dmax="1" x="10083" z="10508" r="50"/>
-        <zone name="InfectedFresh" smin="0" smax="0" dmin="1" dmax="1" x="5893" z="10230" r="50"/>
-        <zone name="InfectedIzlom" smin="0" smax="0" dmin="1" dmax="1" x="3589" z="8885" r="50"/>
-        <zone name="InfectedIzlom" smin="0" smax="0" dmin="1" dmax="1" x="3407" z="6527" r="50"/>
-        <zone name="InfectedIzlom" smin="0" smax="0" dmin="1" dmax="1" x="7591" z="11148" r="50"/>
-        <zone name="InfectedKrovosos" smin="0" smax="0" dmin="1" dmax="1" x="6845" z="9656" r="50"/>
-        <zone name="InfectedKrovosos" smin="0" smax="0" dmin="1" dmax="1" x="7809" z="9015" r="50"/>
-        <zone name="InfectedKrovosos" smin="0" smax="0" dmin="1" dmax="1" x="5365" z="8148" r="50"/>
-        <zone name="InfectedPseDog" smin="0" smax="0" dmin="1" dmax="1" x="7991" z="7430" r="50"/>final
-        <zone name="InfectedPseDog" smin="0" smax="0" dmin="1" dmax="1" x="5783" z="9602" r="50"/>
-        <zone name="InfectedPseDog" smin="0" smax="0" dmin="1" dmax="1" x="6772" z="11125" r="50"/>
-        <zone name="InfectedPGigant" smin="0" smax="0" dmin="1" dmax="1" x="5116" z="11295" r="50"/>
-        <zone name="InfectedPGigant" smin="0" smax="0" dmin="1" dmax="1" x="5295" z="6850" r="50"/>
-        <zone name="InfectedPGigant" smin="0" smax="0" dmin="1" dmax="1" x="6908" z="11728" r="50"/>
-        <zone name="InfectedPoltergeist" smin="0" smax="0" dmin="1" dmax="1" x="5491" z="6024" r="50"/>
-        <zone name="InfectedPoltergeist" smin="0" smax="0" dmin="1" dmax="1" x="4207" z="8580" r="50"/>
-        <zone name="InfectedPoltergeist" smin="0" smax="0" dmin="1" dmax="1" x="6761" z="11349" r="50"/>
-        <zone name="InfectedSnork" smin="0" smax="0" dmin="1" dmax="1" x="4541" z="6215" r="50"/>
-        <zone name="InfectedSnork" smin="0" smax="0" dmin="1" dmax="1" x="5743" z="6766" r="50"/>
-        <zone name="InfectedSnork" smin="0" smax="0" dmin="1" dmax="1" x="7348" z="11670" r="50"/>
-        <zone name="InfectedTushkano" smin="0" smax="0" dmin="1" dmax="1" x="2515" z="6193" r="50"/>
-        <zone name="InfectedTushkano" smin="0" smax="0" dmin="1" dmax="1" x="7969" z="10052" r="50"/>
-        <zone name="InfectedTushkano" smin="0" smax="0" dmin="1" dmax="1" x="6425" z="9611" r="50"/>
-        <zone name="InfectedCivTrup" smin="0" smax="0" dmin="1" dmax="1" x="3776" z="8244" r="50"/>
-        <zone name="InfectedCivTrup" smin="0" smax="0" dmin="1" dmax="1" x="8828" z="10209" r="50"/>
-        <zone name="InfectedCivTrup" smin="0" smax="0" dmin="1" dmax="1" x="5342" z="6942" r="50"/>
-        <zone name="InfectedNovice" smin="0" smax="0" dmin="1" dmax="1" x="5329" z="8757" r="50"/>
-        <zone name="InfectedNovice" smin="0" smax="0" dmin="1" dmax="1" x="5644" z="6786" r="50"/>
-        <zone name="InfectedNovice" smin="0" smax="0" dmin="1" dmax="1" x="8020" z="8199" r="50"/>
-        <zone name="InfectedLoner" smin="0" smax="0" dmin="1" dmax="1" x="7659" z="9067" r="50"/>
-        <zone name="InfectedLoner" smin="0" smax="0" dmin="1" dmax="1" x="5508" z="8724" r="50"/>
-        <zone name="InfectedLoner" smin="0" smax="0" dmin="1" dmax="1" x="8921" z="10511" r="50"/>
-        <zone name="InfectedDuty" smin="0" smax="0" dmin="1" dmax="1" x="5155" z="8034" r="50"/>
-        <zone name="InfectedDuty" smin="0" smax="0" dmin="1" dmax="1" x="3919" z="8179" r="50"/>
-        <zone name="InfectedDuty" smin="0" smax="0" dmin="1" dmax="1" x="5854" z="5590" r="50"/>
-        <zone name="InfectedFreedom" smin="0" smax="0" dmin="1" dmax="1" x="7133" z="6508" r="50"/>
-        <zone name="InfectedFreedom" smin="0" smax="0" dmin="1" dmax="1" x="6278" z="8562" r="50"/>
-        <zone name="InfectedFreedom" smin="0" smax="0" dmin="1" dmax="1" x="8163" z="10003" r="50"/>
-        <zone name="InfectedMonolith" smin="0" smax="0" dmin="1" dmax="1" x="5121" z="9511" r="50"/>
-        <zone name="InfectedMonolith" smin="0" smax="0" dmin="1" dmax="1" x="6740" z="6837" r="50"/>
-        <zone name="InfectedMonolith" smin="0" smax="0" dmin="1" dmax="1" x="8805" z="10086" r="50"/>
+        <!-- <zone name="InfectedBoar" smin="0" smax="0" dmin="0" dmax="0" x="5184" z="7635" r="50"/> randam
+        <zone name="InfectedBoar" smin="0" smax="0" dmin="0" dmax="0" x="4708" z="6250" r="50"/>random
+        <zone name="InfectedBoar" smin="0" smax="0" dmin="0" dmax="0" x="5315" z="7300" r="50"/>random
+        <zone name="InfectedCatBayn" smin="0" smax="0" dmin="0" dmax="0" x="3650" z="8700" r="50"/>
+        <zone name="InfectedCatBayn" smin="0" smax="0" dmin="0" dmax="0" x="6570" z="6784" r="50"/>
+        <zone name="InfectedCatBayn" smin="0" smax="0" dmin="0" dmax="0" x="9590" z="10285" r="50"/>
+        <zone name="InfectedHimera" smin="0" smax="0" dmin="0" dmax="0" x="4012" z="9242" r="50"/>ari woods
+        <zone name="InfectedHimera" smin="0" smax="0" dmin="0" dmax="0" x="4428" z="5937" r="50"/>norinsk woods
+        <zone name="InfectedHimera" smin="0" smax="0" dmin="0" dmax="0" x="6719" z="7178" r="50"/>
+        <zone name="InfectedDog" smin="0" smax="0" dmin="0" dmax="0" x="4489" z="5433" r="50"/>random
+        <zone name="InfectedDog" smin="0" smax="0" dmin="0" dmax="0" x="10882" z="11321" r="50"/>random
+        <zone name="InfectedDog" smin="0" smax="0" dmin="0" dmax="0" x="11585" z="11759" r="50"/>random
+        <zone name="InfectedFresh" smin="0" smax="0" dmin="0" dmax="0" x="4189" z="6229" r="50"/>random
+        <zone name="InfectedFresh" smin="0" smax="0" dmin="0" dmax="0" x="10083" z="10508" r="50"/>random
+        <zone name="InfectedFresh" smin="0" smax="0" dmin="0" dmax="0" x="5893" z="10230" r="50"/>random -->
+    <!-- Izlom: BK-L16
+        <zone name="InfectedIzlom" smin="0" smax="0" dmin="1" dmax="1" x="5969.53" z="6662.11" r="50"/>
+        <zone name="InfectedIzlom" smin="0" smax="0" dmin="1" dmax="1" x="6019.53" z="6629.69" r="50"/>
+        <zone name="InfectedIzlom" smin="0" smax="0" dmin="1" dmax="1" x="5996.48" z="6592.58" r="50"/>
+    -->
+        <!-- <zone name="InfectedKrovosos" smin="0" smax="0" dmin="0" dmax="0" x="6845" z="9656" r="50"/>
+        <zone name="InfectedKrovosos" smin="0" smax="0" dmin="0" dmax="0" x="7809" z="9015" r="50"/>
+        <zone name="InfectedKrovosos" smin="0" smax="0" dmin="0" dmax="0" x="5365" z="8148" r="50"/>
+        <zone name="InfectedPseDog" smin="0" smax="0" dmin="0" dmax="0" x="7991" z="7430" r="50"/>
+        <zone name="InfectedPseDog" smin="0" smax="0" dmin="0" dmax="0" x="5783" z="9602" r="50"/>
+        <zone name="InfectedPseDog" smin="0" smax="0" dmin="0" dmax="0" x="6772" z="11125" r="50"/>
+        <zone name="InfectedPGigant" smin="0" smax="0" dmin="0" dmax="0" x="5116" z="11295" r="50"/>
+        <zone name="InfectedPGigant" smin="0" smax="0" dmin="0" dmax="0" x="5295" z="6850" r="50"/>
+        <zone name="InfectedPGigant" smin="0" smax="0" dmin="0" dmax="0" x="6908" z="11728" r="50"/> -->
+    <!-- Snork: Norinsk
+        <zone name="InfectedSnork" smin="0" smax="0" dmin="0" dmax="0" x="3823.44" z="7423.44" r="50"/>
+        <zone name="InfectedSnork" smin="0" smax="0" dmin="0" dmax="0" x="3860.94" z="7471.88" r="50"/>
+        <zone name="InfectedSnork" smin="0" smax="0" dmin="0" dmax="0" x="3887.50" z="7497.66" r="50"/>
+        <zone name="InfectedSnork" smin="0" smax="0" dmin="0" dmax="0" x="3902.34" z="7473.44" r="50"/>
+        <zone name="InfectedSnork" smin="0" smax="0" dmin="0" dmax="0" x="3916.41" z="7510.94" r="50"/>
+        <zone name="InfectedSnork" smin="0" smax="0" dmin="0" dmax="0" x="3942.19" z="7535.16" r="50"/>
+        <zone name="InfectedSnork" smin="0" smax="0" dmin="0" dmax="0" x="3945.31" z="7575.78" r="50"/>
+        <zone name="InfectedSnork" smin="0" smax="0" dmin="0" dmax="0" x="3985.94" z="7582.03" r="50"/>
+        <zone name="InfectedSnork" smin="0" smax="0" dmin="0" dmax="0" x="3992.19" z="7575.00" r="50"/>
+        <zone name="InfectedSnork" smin="0" smax="0" dmin="0" dmax="0" x="3985.16" z="7627.34" r="50"/>
+        <zone name="InfectedSnork" smin="0" smax="0" dmin="0" dmax="0" x="4012.50" z="7610.16" r="50"/>
+    -->
+        <!-- <zone name="InfectedCivTrup" smin="0" smax="0" dmin="0" dmax="0" x="3776" z="8244" r="50"/>
+        <zone name="InfectedCivTrup" smin="0" smax="0" dmin="0" dmax="0" x="8828" z="10209" r="50"/>
+        <zone name="InfectedCivTrup" smin="0" smax="0" dmin="0" dmax="0" x="5342" z="6942" r="50"/>
+        <zone name="InfectedNovice" smin="0" smax="0" dmin="0" dmax="0" x="5329" z="8757" r="50"/>
+        <zone name="InfectedNovice" smin="0" smax="0" dmin="0" dmax="0" x="5644" z="6786" r="50"/>
+        <zone name="InfectedNovice" smin="0" smax="0" dmin="0" dmax="0" x="8020" z="8199" r="50"/>
+        <zone name="InfectedLoner" smin="0" smax="0" dmin="0" dmax="0" x="7659" z="9067" r="50"/>
+        <zone name="InfectedLoner" smin="0" smax="0" dmin="0" dmax="0" x="5508" z="8724" r="50"/>
+        <zone name="InfectedLoner" smin="0" smax="0" dmin="0" dmax="0" x="8921" z="10511" r="50"/>
+        <zone name="InfectedDuty" smin="0" smax="0" dmin="0" dmax="0" x="5155" z="8034" r="50"/>
+        <zone name="InfectedDuty" smin="0" smax="0" dmin="0" dmax="0" x="3919" z="8179" r="50"/>
+        <zone name="InfectedDuty" smin="0" smax="0" dmin="0" dmax="0" x="5854" z="5590" r="50"/>
+        <zone name="InfectedFreedom" smin="0" smax="0" dmin="0" dmax="0" x="7133" z="6508" r="50"/>
+        <zone name="InfectedFreedom" smin="0" smax="0" dmin="0" dmax="0" x="6278" z="8562" r="50"/>
+        <zone name="InfectedFreedom" smin="0" smax="0" dmin="0" dmax="0" x="8163" z="10003" r="50"/>
+        <zone name="InfectedMonolith" smin="0" smax="0" dmin="0" dmax="0" x="5121" z="9511" r="50"/>
+        <zone name="InfectedMonolith" smin="0" smax="0" dmin="0" dmax="0" x="6740" z="6837" r="50"/>
+        <zone name="InfectedMonolith" smin="0" smax="0" dmin="0" dmax="0" x="8805" z="10086" r="50"/> -->
+    <!-- Tushkano 
+        Factory Chem Fac
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="6528.52" z="9292.58" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="6485.16" z="9294.14" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="6445.70" z="9300.00" r="50"/>
+        Factory Seb Fac
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="5847.66" z="8731.64" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="5801.17" z="8732.42" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="5718.36" z="8733.20" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="5805.47" z="8692.58" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="5799.22" z="8672.27" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="5792.19" z="8635.16" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="5839.06" z="8650.39" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="5751.56" z="8680.47" r="50"/>
+        Sebjan Uranium Mine
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="5026.56" z="8197.66" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="5065.63" z="8172.27" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="5103.13" z="8138.67" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="5139.84" z="8094.92" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="5037.50" z="8061.72" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="4962.11" z="8063.28" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="4903.13" z="8059.38" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="4838.28" z="8064.06" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="4764.06" z="8052.73" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="4766.02" z="7948.05" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="4832.42" z="7948.44" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="4924.22" z="7943.75" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="4999.22" z="7942.19" r="50"/>
+        Athena Research Intitute
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="4535.16" z="8149.22" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="4404.69" z="8090.63" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="4295.70" z="8015.63" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="4150.39" z="8043.36" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="4239.06" z="8116.80" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="4106.25" z="8073.44" r="50"/>
+        Brensk Bridge
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="4850.00" z="6285.16" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="4847.27" z="6162.50" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="4847.66" z="6088.28" r="50"/>
+        Sawmill Tara Saw
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="6998.83" z="5819.53" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="7044.92" z="5785.94" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="7110.55" z="5840.23" r="50"/>
+        Tara
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="7253.13" z="7087.50" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="7282.03" z="7022.27" r="50"/>
+        Hospital
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="7313.67" z="7994.92" r="50"/>
+        Tara Harbor
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="7813.28" z="7606.25" r="50"/>
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="7856.25" z="7758.59" r="50"/>
+        Factory Nemsk Fac
+        <zone name="InfectedTushkano" smin="0" smax="0" dmin="0" dmax="0" x="7660.94" z="8751.95" r="50"/>
+    -->
+    <!-- Athena Research Intitute
+        <zone name="InfectedBurer" smin="0" smax="0" dmin="0" dmax="0" x="4533.59" z="8150.78" r="50"/>
+        <zone name="InfectedBurer" smin="0" smax="0" dmin="0" dmax="0" x="4402.34" z="8089.45" r="50"/>
+        <zone name="InfectedBurer" smin="0" smax="0" dmin="0" dmax="0" x="4242.19" z="8087.11" r="50"/>
+        <zone name="InfectedBurer" smin="0" smax="0" dmin="0" dmax="0" x="4166.41" z="8071.09" r="50"/>
+        <zone name="InfectedBurer" smin="0" smax="0" dmin="0" dmax="0" x="4251.17" z="8026.17" r="50"/>
+        <zone name="InfectedBurer" smin="0" smax="0" dmin="0" dmax="0" x="4511.72" z="8208.20" r="50"/>
+        <zone name="InfectedBurer" smin="0" smax="0" dmin="0" dmax="0" x="4553.52" z="8098.83" r="50"/>    
+    -->
+    <!-- Uranium Mine
+        <zone name="InfectedPoltergeist" smin="0" smax="0" dmin="0" dmax="0" x="4892" z="8032" r="50"/>
+        <zone name="InfectedPoltergeist" smin="0" smax="0" dmin="0" dmax="0" x="5084" z="8052" r="50"/>
+        <zone name="InfectedPoltergeist" smin="0" smax="0" dmin="0" dmax="0" x="4868" z="8105" r="50"/>
+        <zone name="InfectedPoltergeist" smin="0" smax="0" dmin="0" dmax="0" x="4853" z="7907" r="50"/>
+        <zone name="InfectedPoltergeist" smin="0" smax="0" dmin="0" dmax="0" x="4976" z="8099" r="50"/>
+        <zone name="InfectedPoltergeist" smin="0" smax="0" dmin="0" dmax="0" x="4868" z="7974" r="50"/>
+        <zone name="InfectedPoltergeist" smin="0" smax="0" dmin="0" dmax="0" x="5090" z="7993" r="50"/>
+        <zone name="InfectedPoltergeist" smin="0" smax="0" dmin="0" dmax="0" x="4973" z="8020" r="50"/>
+        <zone name="InfectedPoltergeist" smin="0" smax="0" dmin="0" dmax="0" x="4903" z="7908" r="50"/>
+        <zone name="InfectedPoltergeist" smin="0" smax="0" dmin="0" dmax="0" x="4942" z="8096" r="50"/>
+    -->
     </territory>
 </territory-type>

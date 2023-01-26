@@ -1,1 +1,15 @@
 Test Server files
+
+
+Add SSG 82 mag to loottable and market
+
+
+
+
+Edit: zombie_territories.xml
+    Changed the spawn location of:
+        Izlom
+        Snork
+        Tushkano
+        Burer
+        Poltergeist
