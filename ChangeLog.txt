@@ -10,6 +10,6 @@ Edit: zombie_territories.xml
     Changed the spawn location of:
         Izlom
         Snork
-        Tushkano
+        Tushkano (does not work need to be modified)
         Burer
         Poltergeist
